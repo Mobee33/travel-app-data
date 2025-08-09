@@ -1,0 +1,1731 @@
+{
+  "Day 1": [
+    {
+      "routeName": "KL Arrival & Iconic Landmarks Focus",
+      "activities": [
+        {
+          "id": "act001",
+          "name": "Arrive in Kuala Lumpur & Transfer to Hotel",
+          "category": "Arrival/Logistics",
+          "description": "Welcome to Kuala Lumpur! Upon arrival at KLIA/KLIA2, clear immigration, collect your baggage. Proceed to your city center hotel via KLIA Ekspres train to KL Sentral (approx. 30 mins, RM55) followed by LRT/Grab, or take a direct Grab/Airport Taxi (approx. 45-60 mins, RM70-100). Check in and leave luggage.",
+          "address": "Kuala Lumpur International Airport (KLIA/KLIA2) to City Hotel",
+          "location_string_for_grab": "Your Hotel in Kuala Lumpur City Centre",
+          "coordinates": [
+            101.706,
+            3.141
+          ],
+          "price_myr": 70,
+          "time_available": "Flexible based on arrival",
+          "image_url": "https://images.pexels.com/photos/122244/pexels-photo-122244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "KLIA Ekspres, Airport Bus to KL Sentral, Grab, Airport Taxi."
+        },
+        {
+          "id": "act002",
+          "name": "Lunch in Bukit Bintang Area",
+          "category": "Food",
+          "description": "After settling in (around 1:00 PM - 2:00 PM), head to the vibrant Bukit Bintang district. Enjoy lunch at Lot 10 Hutong Food Court for a curated selection of famous Malaysian street food stalls in an air-conditioned environment, or explore various restaurants in Pavilion KL.",
+          "address": "Lot 10 Hutong, LG Floor, Lot 10 Shopping Centre, Bukit Bintang, KL",
+          "location_string_for_grab": "Lot 10 Hutong, Bukit Bintang",
+          "coordinates": [
+            101.712,
+            3.147
+          ],
+          "price_myr": 35,
+          "time_available": "10:00 - 22:00",
+          "image_url": "https://images.pexels.com/photos/4007642/pexels-photo-4007642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.2,
+          "transport_options": "Monorail to Bukit Bintang station, or Grab/Taxi."
+        },
+        {
+          "id": "p001",
+          "name": "Petronas Twin Towers (Skybridge & Observation Deck)",
+          "category": "Landmark/Scenic",
+          "description": "Mid-afternoon (book tickets for a 3:00 PM or 4:00 PM slot in advance online to avoid queues): Visit the world’s tallest twin towers for an exhilarating city view from the 86th-floor observation deck and the famous Skybridge. The sleek 452 m towers are an iconic symbol of KL. Allow 1.5 hours for the tour.",
+          "address": "Lower Ground Level, Petronas Twin Towers, KL City Centre, 50088 Kuala Lumpur",
+          "location_string_for_grab": "Petronas Twin Towers Visit, KLCC",
+          "coordinates": [
+            101.7119,
+            3.1579
+          ],
+          "price_myr": 98,
+          "time_available": "Tue–Sun 09:00-21:00 (last entry usually 20:15; closed Mondays). Booking essential.",
+          "image_url": "https://images.pexels.com/photos/3815533/pexels-photo-3815533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.7,
+          "transport_options": "LRT to KLCC station (direct access to Suria KLCC mall below towers). Grab/Taxi."
+        },
+        {
+          "id": "p012",
+          "name": "KLCC Park Stroll & Lake Symphony (Evening)",
+          "category": "Nature/Show",
+          "description": "After the Petronas Towers visit (around 5:00 PM - 6:00 PM), take a leisurely stroll through the beautifully landscaped KLCC Park. Enjoy the greenery, children's play area, and wading pool. Find a good spot facing the Petronas Towers and Suria KLCC by the lake for the KLCC Lake Symphony light and sound water fountain show, which usually starts at 8:00 PM (shows also at 9 PM, 10 PM).",
+          "address": "KLCC, Kuala Lumpur City Centre, 50088 Kuala Lumpur",
+          "location_string_for_grab": "KLCC Park Lake Symphony Fountains",
+          "coordinates": [
+            101.7145,
+            3.1557
+          ],
+          "price_myr": 0,
+          "time_available": "Park: daily 07:00–22:00. Lake Symphony show at 20:00, 21:00, 22:00.",
+          "image_url": "https://images.pexels.com/photos/13613637/pexels-photo-13613637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.7,
+          "transport_options": "Located at the foot of Petronas Towers."
+        },
+        {
+          "id": "act003b",
+          "name": "Dinner at Suria KLCC or Avenue K",
+          "category": "Food",
+          "description": "After the Lake Symphony show (around 8:30 PM), have dinner at one of the many restaurants in Suria KLCC mall (upscale options, food court) or cross the road to Avenue K mall for more dining choices.",
+          "address": "Suria KLCC, Persiaran Petronas, Kuala Lumpur City Centre",
+          "location_string_for_grab": "Suria KLCC Food Court",
+          "coordinates": [
+            101.7127,
+            3.158
+          ],
+          "price_myr": 50,
+          "time_available": "Mall hours, typically until 22:00",
+          "image_url": "https://images.pexels.com/photos/4727810/pexels-photo-4727810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Within KLCC area."
+        }
+      ]
+    },
+    {
+      "routeName": "KL Cultural Heartbeat & Markets",
+      "activities": [
+        {
+          "id": "act001c",
+          "name": "Arrive in KL & Hotel Check-in (Same as Route 1)",
+          "category": "Arrival/Logistics",
+          "description": "Welcome to Kuala Lumpur! Arrive at KLIA/KLIA2, transfer to your city center hotel, check in, and leave luggage.",
+          "address": "Kuala Lumpur City Center",
+          "location_string_for_grab": "Your Hotel in Kuala Lumpur City Centre",
+          "coordinates": [
+            101.706,
+            3.141
+          ],
+          "price_myr": 70,
+          "time_available": "Arrival Day",
+          "image_url": "https://images.pexels.com/photos/122244/pexels-photo-122244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "KLIA Ekspres, Airport Bus to KL Sentral, Grab, Airport Taxi."
+        },
+        {
+          "id": "act004",
+          "name": "Lunch in Chinatown (Petaling Street Area)",
+          "category": "Food",
+          "description": "After settling in (around 1:00 PM - 2:00 PM), head to the historic Chinatown area. Enjoy authentic Chinese-Malaysian dishes at a local coffee shop (kopitiam) or food stall around Petaling Street.",
+          "address": "Jalan Sultan / Jalan Petaling area, Kuala Lumpur",
+          "location_string_for_grab": "Madras Lane Hawker Stalls (off Petaling Street)",
+          "coordinates": [
+            101.6975,
+            3.1445
+          ],
+          "price_myr": 25,
+          "time_available": "Lunchtime",
+          "image_url": "https://images.pexels.com/photos/1742715/pexels-photo-1742715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "LRT to Pasar Seni, then walk. Grab/Taxi."
+        },
+        {
+          "id": "p020",
+          "name": "Explore Merdeka Square & Sultan Abdul Samad Building",
+          "category": "Culture/History",
+          "description": "Mid-afternoon (around 2:30 PM): Visit Merdeka Square (Independence Square), the historical heart of KL. Admire the colonial architecture of the Sultan Abdul Samad Building and the Royal Selangor Club. Take photos with the giant flagpole. Walk around the square and visit the KL City Gallery (small entry fee for gallery).",
+          "address": "Jalan Raja, City Centre, 50050 Kuala Lumpur",
+          "location_string_for_grab": "Merdeka Square Kuala Lumpur",
+          "coordinates": [
+            101.694,
+            3.1476
+          ],
+          "price_myr": 0,
+          "time_available": "Square always accessible; Gallery 09:00-18:30",
+          "image_url": "https://images.pexels.com/photos/26733740/pexels-photo-26733740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.4,
+          "transport_options": "LRT to Masjid Jamek station, then short walk. Grab/Taxi."
+        },
+        {
+          "id": "p011",
+          "name": "Shopping at Central Market (Pasar Seni)",
+          "category": "Shopping/Culture",
+          "description": "Around 4:00 PM, walk from Merdeka Square to Central Market (Pasar Seni). This art-deco heritage building is filled with stalls selling Malaysian handicrafts, batik, souvenirs, art, and local snacks. Good for air-conditioned browsing.",
+          "address": "Jalan Hang Kasturi, City Centre, 50050 Kuala Lumpur",
+          "location_string_for_grab": "Central Market Kuala Lumpur (Pasar Seni)",
+          "coordinates": [
+            101.6957,
+            3.1458
+          ],
+          "price_myr": 0,
+          "time_available": "Daily 10:00–20:00",
+          "image_url": "https://images.pexels.com/photos/8844213/pexels-photo-8844213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.4,
+          "transport_options": "Short walk from Merdeka Square. LRT to Pasar Seni station."
+        },
+        {
+          "id": "p004",
+          "name": "Evening Exploration of Petaling Street (Chinatown Market)",
+          "category": "Shopping/Food/Nightlife",
+          "description": "As evening approaches (around 6:00 PM), dive back into Petaling Street as the night market comes alive. Bargain for goods, soak in the bustling atmosphere, and enjoy a wide array of street food for dinner.",
+          "address": "Jalan Petaling, City Centre, 50000 Kuala Lumpur, Malaysia",
+          "location_string_for_grab": "Petaling Street Night Market, Kuala Lumpur",
+          "coordinates": [
+            101.6977,
+            3.1451
+          ],
+          "price_myr": 30,
+          "time_available": "Market most lively in the evening until ~22:00",
+          "image_url": "https://images.pexels.com/photos/1493105/pexels-photo-1493105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4,
+          "transport_options": "Short walk from Central Market."
+        }
+      ]
+    }
+  ],
+  "Day 2": [
+    {
+      "routeName": "Spiritual Heights & Nature's Calm",
+      "activities": [
+        {
+          "id": "p002",
+          "name": "Morning Excursion to Batu Caves",
+          "category": "Culture/Nature",
+          "description": "Start early (depart hotel around 8:00 AM) to visit Batu Caves. Climb the 272 colorful steps to the main cave temple, admire the giant golden Lord Murugan statue, and watch out for playful monkeys. Allow 3-4 hours including travel and exploration.",
+          "address": "Gombak, 68100 Batu Caves, Selangor, Malaysia",
+          "location_string_for_grab": "Batu Caves, Selangor",
+          "coordinates": [
+            101.684,
+            3.2379
+          ],
+          "price_myr": 0,
+          "time_available": "Daily 07:00-19:00 (Temple caves generally open earlier)",
+          "image_url": "https://images.pexels.com/photos/6026884/pexels-photo-6026884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.6,
+          "transport_options": "KTM Komuter train from KL Sentral to Batu Caves station (most direct). Grab/Taxi (approx. 30 mins)."
+        },
+        {
+          "id": "act005",
+          "name": "Indian Lunch near Batu Caves",
+          "category": "Food",
+          "description": "After descending from Batu Caves (around 12:00 PM - 1:00 PM), enjoy an authentic South Indian lunch at one of the many vegetarian or non-vegetarian restaurants located at the base of the caves complex.",
+          "address": "Batu Caves Temple Complex Restaurants, Selangor",
+          "location_string_for_grab": "Restoran Sri Devi, Batu Caves",
+          "coordinates": [
+            101.6835,
+            3.2355
+          ],
+          "price_myr": 20,
+          "time_available": "Lunchtime",
+          "image_url": "https://images.pexels.com/photos/6026884/pexels-photo-6026884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Located at the Batu Caves complex."
+        },
+        {
+          "id": "p005",
+          "name": "Afternoon Relaxation at Perdana Botanical Gardens",
+          "category": "Nature",
+          "description": "Travel back to KL (around 2:30 PM - 3:00 PM). Spend a relaxing afternoon at the Perdana Botanical Gardens (Lake Gardens). Stroll through the various themed gardens, visit the Orchid Garden or Hibiscus Garden, or simply enjoy the tranquil atmosphere by the lake. Allow 2 hours.",
+          "address": "Jalan Kebun Bunga, Tasik Perdana, 55100 Kuala Lumpur",
+          "location_string_for_grab": "Perdana Botanical Gardens, Kuala Lumpur",
+          "coordinates": [
+            101.684,
+            3.1436
+          ],
+          "price_myr": 0,
+          "time_available": "Daily 07:00–20:00",
+          "image_url": "https://images.pexels.com/photos/18826650/pexels-photo-18826650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.5,
+          "transport_options": "Grab/Taxi from Batu Caves area (can be longer) or train back to KL Sentral then Grab/Taxi to Gardens."
+        },
+        {
+          "id": "p013",
+          "name": "KL Forest Eco Park & Canopy Walk (Optional)",
+          "category": "Nature/Adventure",
+          "description": "If you still have energy (around 5:00 PM), visit the KL Forest Eco Park near KL Tower. Experience the rainforest canopy walkway offering unique views of the city skyline amidst greenery. Allow about 1 hour.",
+          "address": "Lot 240, Jalan Raja Chulan, Bukit Kewangan, 50250 Kuala Lumpur",
+          "location_string_for_grab": "KL Forest Eco Park Canopy Walk",
+          "coordinates": [
+            101.7036,
+            3.152
+          ],
+          "price_myr": 0,
+          "time_available": "Daily ~07:00–18:00 (Canopy Walk may close earlier or due to weather)",
+          "image_url": "https://images.pexels.com/photos/6021406/pexels-photo-6021406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.3,
+          "transport_options": "Grab/Taxi. Short walk from some parts of Perdana Botanical Gardens if planned well, or separate Grab ride."
+        },
+        {
+          "id": "p016",
+          "name": "Sunset Drinks at Heli Lounge Bar",
+          "category": "Nightlife/Scenic",
+          "description": "Evening (around 6:30 PM - 7:00 PM for sunset): Head to Heli Lounge Bar. Enjoy cocktails on a functional helipad turned rooftop bar, offering stunning 360° sunset views over KL, including the Petronas Towers and KL Tower. Drink purchase required.",
+          "address": "Level 34, Menara KH, Jalan Sultan Ismail, Bukit Bintang, 50250 Kuala Lumpur",
+          "location_string_for_grab": "Heli Lounge Bar, Menara KH, Kuala Lumpur",
+          "coordinates": [
+            101.7069,
+            3.1534
+          ],
+          "price_myr": 50,
+          "time_available": "Daily from 17:00 (Helipad access weather permitting, best before 9 PM for casual dress)",
+          "image_url": "https://images.pexels.com/photos/2863547/pexels-photo-2863547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.4,
+          "transport_options": "Monorail to Raja Chulan station, then 5-min walk. Grab/Taxi."
+        }
+      ]
+    },
+    {
+      "routeName": "KL's Artistic Side & Avian Wonders",
+      "activities": [
+        {
+          "id": "p010",
+          "name": "Morning at Islamic Arts Museum Malaysia",
+          "category": "Culture/Museum",
+          "description": "Start your day (around 10:00 AM) at the Islamic Arts Museum Malaysia, home to one of the best collections of Islamic decorative arts in Southeast Asia. Admire calligraphy, textiles, ceramics, and architectural models. Allow 2-2.5 hours.",
+          "address": "Jalan Lembah Perdana, Tasik Perdana, 50480 Kuala Lumpur",
+          "location_string_for_grab": "Islamic Arts Museum Malaysia, Kuala Lumpur",
+          "coordinates": [
+            101.6905,
+            3.14
+          ],
+          "price_myr": 20,
+          "time_available": "Daily 09:30–18:00",
+          "image_url": "https://images.pexels.com/photos/27409759/pexels-photo-27409759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.5,
+          "transport_options": "Grab/Taxi. Near National Mosque and Perdana Botanical Gardens."
+        },
+        {
+          "id": "p014",
+          "name": "Royal Selangor Visitor Centre & Pewter Workshop",
+          "category": "Immersive Experience/Craft",
+          "description": "After an early lunch (around 12:30 PM), travel to the Royal Selangor Visitor Centre (approx. 30 min drive). Take the free guided factory tour to see pewter crafting. Consider the 'School of Hard Knocks' (RM65, ~30-40 mins) or 'The Foundry' (RM180, ~60 mins) workshop to make your own pewter item. Book workshops in advance if possible. Allow 2-3 hours total.",
+          "address": "4, Jalan Usahawan 6, Setapak Jaya, 53300 Kuala Lumpur",
+          "location_string_for_grab": "Royal Selangor Visitor Centre, Kuala Lumpur",
+          "coordinates": [
+            101.7209,
+            3.2038
+          ],
+          "price_myr": 0,
+          "time_available": "Daily 09:00-17:00 (last workshop may start earlier)",
+          "image_url": "https://images.pexels.com/photos/30572936/pexels-photo-30572936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.7,
+          "transport_options": "Grab/Taxi is most convenient. LRT to Wangsa Maju then free shuttle (check schedule) or short Grab/Taxi ride."
+        },
+        {
+          "id": "p006",
+          "name": "Late Afternoon at KL Bird Park",
+          "category": "Nature/Wildlife",
+          "description": "Late afternoon (around 4:00 PM, after Royal Selangor, travel back towards city): Visit the KL Bird Park, the world's largest free-flight walk-in aviary. Stroll through lush landscapes and encounter various bird species. Allow 1.5-2 hours before closing.",
+          "address": "920, Jalan Cenderawasih, Perdana Botanical Gardens, 50480 Kuala Lumpur, Malaysia",
+          "location_string_for_grab": "KL Bird Park, Kuala Lumpur",
+          "coordinates": [
+            101.6884,
+            3.1417
+          ],
+          "price_myr": 85,
+          "time_available": "Daily 09:00-18:00",
+          "image_url": "https://images.pexels.com/photos/27681468/pexels-photo-27681468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.3,
+          "transport_options": "Grab/Taxi. Located within the Perdana Botanical Gardens area."
+        },
+        {
+          "id": "act008b",
+          "name": "Dinner at a Themed Cafe or Restaurant",
+          "category": "Food/Experience",
+          "description": "Evening: For a unique dining experience, try one of KL's themed cafes or unique restaurants. Options range from character cafes to dining in the dark, or explore the vibrant food scene in areas like TREC KL or The Row KL.",
+          "address": "Various locations, e.g., The Row KL, Jalan Doraisamy",
+          "location_string_for_grab": "The Row KL",
+          "coordinates": [
+            101.7,
+            3.158
+          ],
+          "price_myr": 70,
+          "time_available": "Evening",
+          "image_url": "https://images.pexels.com/photos/16350387/pexels-photo-16350387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Grab/Taxi depending on choice."
+        }
+      ]
+    }
+  ],
+  "Day 3": [
+    {
+      "routeName": "Historical Malacca Full Day Trip",
+      "activities": [
+        {
+          "id": "act009",
+          "name": "Early Bus: Kuala Lumpur to Malacca",
+          "category": "Transport/Day Trip",
+          "description": "Depart Kuala Lumpur very early (e.g., 7:00 AM bus from TBS - Terminal Bersepadu Selatan) to maximize your day in Malacca. The comfortable express bus journey takes approximately 2-2.5 hours. Arrive at Melaka Sentral bus terminal around 9:30 AM.",
+          "address": "TBS Kuala Lumpur to Melaka Sentral, Malacca",
+          "location_string_for_grab": "TBS (Terminal Bersepadu Selatan), Kuala Lumpur",
+          "coordinates": [
+            101.7178,
+            3.0729
+          ],
+          "price_myr": 15,
+          "time_available": "Buses depart frequently from early morning.",
+          "image_url": "https://images.pexels.com/photos/17406184/pexels-photo-17406184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.5,
+          "transport_options": "Book bus tickets online (e.g., redBus, Easybook) or at TBS counter. Many operators available (KKKL, Delima, Mayang Sari)."
+        },
+        {
+          "id": "act010",
+          "name": "Malacca's Red Square (Dutch Square), Stadthuys & St. Paul's Hill",
+          "category": "Culture/History",
+          "description": "From Melaka Sentral, take a Grab or local bus (Panorama Melaka No. 17) to the Red Square (Dutch Square) – approx. 15-20 mins. Start your exploration (around 10:00 AM) with the iconic Stadthuys (former Dutch administrative building, now a museum), Christ Church, and the Tang Beng Swee Clocktower. Climb St. Paul's Hill to see the atmospheric ruins of St. Paul's Church and enjoy panoramic views of Malacca Strait. Allocate 2.5-3 hours.",
+          "address": "Dutch Square, Jalan Gereja, 75000 Melaka, Malaysia",
+          "location_string_for_grab": "Stadthuys, Red Square Melaka",
+          "coordinates": [
+            102.2491,
+            2.194
+          ],
+          "price_myr": 10,
+          "time_available": "Museums typically 09:00 - 17:00. Square is always accessible.",
+          "image_url": "https://images.pexels.com/photos/28909735/pexels-photo-28909735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.4,
+          "transport_options": "Grab from Melaka Sentral. The historic core is very walkable."
+        },
+        {
+          "id": "act011",
+          "name": "Lunch & Exploration of Jonker Street (Jalan Hang Jebat)",
+          "category": "Food/Shopping/Culture",
+          "description": "Around 1:00 PM, walk from Red Square to Jonker Street. This vibrant street is famous for its antique shops, Nyonya cuisine, local delicacies, and temples. Enjoy lunch at a Peranakan restaurant (e.g., Nancy's Kitchen, Kocik Kitchen) or try famous Chicken Rice Balls. Browse the shops and soak in the atmosphere. Allocate 2-2.5 hours.",
+          "address": "Jalan Hang Jebat, 75200 Melaka, Malaysia",
+          "location_string_for_grab": "Jonker Street Walk, Melaka",
+          "coordinates": [
+            102.2465,
+            2.196
+          ],
+          "price_myr": 40,
+          "time_available": "Shops and restaurants generally open 10:00 - 18:00, some later.",
+          "image_url": "https://images.pexels.com/photos/1493105/pexels-photo-1493105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.2,
+          "transport_options": "Short walk from Red Square. The street itself is pedestrian-friendly."
+        },
+        {
+          "id": "act012",
+          "name": "Melaka River Cruise & Cheng Hoon Teng Temple",
+          "category": "Scenic/Culture",
+          "description": "Late afternoon (around 3:30 PM): Take a relaxing 45-minute Melaka River Cruise to see the city's historic shophouses, murals, and bridges from the water. Afterwards, if time permits, visit the nearby Cheng Hoon Teng Temple, Malaysia's oldest traditional Chinese temple. Allocate 1.5 hours for both.",
+          "address": "Muara Jetty (for River Cruise), Jalan Merdeka, 75000 Melaka / Cheng Hoon Teng Temple, Jalan Tokong",
+          "location_string_for_grab": "Melaka River Cruise Muara Jetty",
+          "coordinates": [
+            102.2472,
+            2.1931
+          ],
+          "price_myr": 30,
+          "time_available": "River Cruise 09:00 - 23:00. Temple generally open daylight hours.",
+          "image_url": "https://images.pexels.com/photos/13066539/pexels-photo-13066539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.3,
+          "transport_options": "River cruise jetties are near Jonker Street. Temple is a short walk from Jonker."
+        },
+        {
+          "id": "act013",
+          "name": "Evening Bus: Malacca back to Kuala Lumpur",
+          "category": "Transport/Day Trip",
+          "description": "Around 5:30 PM - 6:00 PM, take a Grab from the historic center back to Melaka Sentral bus terminal. Board an express bus back to Kuala Lumpur (TBS). Arrive in KL by 8:00 PM - 8:30 PM. Have a light dinner near your hotel or at TBS.",
+          "address": "Melaka Sentral to TBS Kuala Lumpur",
+          "location_string_for_grab": "Melaka Sentral Bus Terminal",
+          "coordinates": [
+            102.2717,
+            2.2105
+          ],
+          "price_myr": 15,
+          "time_available": "Buses depart frequently until late evening.",
+          "image_url": "https://images.pexels.com/photos/186408/pexels-photo-186408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.5,
+          "transport_options": "Grab to Melaka Sentral. Express bus to TBS."
+        }
+      ]
+    },
+    {
+      "routeName": "KL Relaxation & Local Flavours",
+      "activities": [
+        {
+          "id": "act028",
+          "name": "Leisurely Morning & Brunch",
+          "category": "Leisure/Food",
+          "description": "Enjoy a relaxed morning. Sleep in, then find a nice cafe in areas like Bangsar or Mont Kiara for a late brunch (around 11:00 AM). Try local coffee and pastries or a Western-style brunch.",
+          "address": "Bangsar Village area, Kuala Lumpur",
+          "location_string_for_grab": "APW Bangsar",
+          "coordinates": [
+            101.67,
+            3.132
+          ],
+          "price_myr": 50,
+          "time_available": "Morning/Brunch time",
+          "image_url": "https://images.pexels.com/photos/19705272/pexels-photo-19705272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Grab/Taxi or LRT to Bangsar then walk/short Grab."
+        },
+        {
+          "id": "act029",
+          "name": "Shopping Spree or Spa Treatment",
+          "category": "Shopping/Wellness",
+          "description": "Afternoon: Indulge in some retail therapy at one of KL's mega-malls like Pavilion KL, Suria KLCC, or Mid Valley Megamall. Alternatively, book a traditional Malaysian massage or spa treatment for relaxation.",
+          "address": "Pavilion KL, Bukit Bintang",
+          "location_string_for_grab": "Pavilion Kuala Lumpur",
+          "coordinates": [
+            101.7134,
+            3.1486
+          ],
+          "price_myr": 100,
+          "time_available": "Mall hours 10:00-22:00; Spa by appointment",
+          "image_url": "https://images.pexels.com/photos/28388982/pexels-photo-28388982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Monorail/LRT to shopping districts or Grab/Taxi."
+        },
+        {
+          "id": "p019",
+          "name": "Evening Food Exploration in Kampung Baru",
+          "category": "Food/Culture",
+          "description": "Evening (around 7:00 PM): Immerse yourself in the authentic Malay food scene of Kampung Baru. Try Nasi Lemak, Satay, Ikan Bakar (grilled fish), and various local desserts. Walk around to experience the village atmosphere against the city skyline.",
+          "address": "Kampung Baru, 50300 Kuala Lumpur",
+          "location_string_for_grab": "Nasi Lemak Wanjo Kampung Baru",
+          "coordinates": [
+            101.705,
+            3.163
+          ],
+          "price_myr": 40,
+          "time_available": "Evenings, many stalls open late",
+          "image_url": "https://images.pexels.com/photos/4007545/pexels-photo-4007545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.5,
+          "transport_options": "LRT to Kampung Baru station. Grab/Taxi."
+        }
+      ]
+    }
+  ],
+  "Day 4": [
+    {
+      "routeName": "Genting Highlands Mountain Resort Day Trip",
+      "activities": [
+        {
+          "id": "act014",
+          "name": "Travel to Genting Highlands (Awana SkyWay)",
+          "category": "Transport/Scenic",
+          "description": "Morning (depart KL around 8:30 - 9:00 AM): Travel to the Awana SkyWay station at Genting Highlands. This can be done by express bus from KL Sentral or Pudu Sentral to Awana Bus Terminal (approx. 1 hour), or by Grab/taxi (approx. 1 hour). From Awana Station, take the scenic 10-minute Awana SkyWay cable car (gondola) ride up to Resorts World Genting, enjoying breathtaking views over the 130-million-year-old rainforest.",
+          "address": "Awana SkyWay, Genting Highlands Resorts, 69000 Genting Highlands, Pahang",
+          "location_string_for_grab": "Awana SkyWay Station, Genting Highlands",
+          "coordinates": [
+            101.7928,
+            3.3918
+          ],
+          "price_myr": 18,
+          "time_available": "Cable car operates approx. 07:00 - 23:00 daily.",
+          "image_url": "https://images.pexels.com/photos/6127941/pexels-photo-6127941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.5,
+          "transport_options": "Express bus to Awana Station + Awana SkyWay. Grab/Taxi directly to Awana SkyWay."
+        },
+        {
+          "id": "act015",
+          "name": "Explore SkyAvenue Mall & Skytropolis Indoor Theme Park",
+          "category": "Entertainment/Shopping",
+          "description": "Upon reaching the summit (around 11:00 AM): Explore SkyAvenue, a vibrant lifestyle mall with numerous international brands, dining options, and impressive LED displays. For some thrills, visit Skytropolis Indoor Theme Park (pay per ride or day pass approx. RM60-70), offering a variety of family-friendly and exciting rides. Enjoy the cool mountain air and modern resort atmosphere. Have lunch at one of the many restaurants in SkyAvenue.",
+          "address": "SkyAvenue, Genting Highlands Resort, Pahang, Malaysia",
+          "location_string_for_grab": "SkyAvenue Mall, Genting Highlands",
+          "coordinates": [
+            101.7946,
+            3.4244
+          ],
+          "price_myr": 70,
+          "time_available": "Mall & Theme Park generally 10:00 - 22:00 (Theme park hours may vary).",
+          "image_url": "https://images.pexels.com/photos/31027052/pexels-photo-31027052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.2,
+          "transport_options": "Located at the upper station of Awana SkyWay."
+        },
+        {
+          "id": "act016",
+          "name": "Visit Chin Swee Caves Temple (via Cable Car)",
+          "category": "Culture/Scenic",
+          "description": "Mid-afternoon (around 3:00 PM): Take the Awana SkyWay cable car down to the Chin Swee Station (a free stop). Explore the magnificent Chin Swee Caves Temple, an ornate Taoist temple set on a rocky forested slope with panoramic views. Admire the giant Buddha statue, pagodas, and intricate carvings. Spend about 1-1.5 hours.",
+          "address": "Chin Swee Caves Temple, Genting Highlands, Pahang",
+          "location_string_for_grab": "Chin Swee Temple, Genting Highlands",
+          "coordinates": [
+            101.7906,
+            3.4057
+          ],
+          "price_myr": 0,
+          "time_available": "Temple generally open during daylight hours (e.g., 09:00 - 18:00).",
+          "image_url": "https://images.pexels.com/photos/3823436/pexels-photo-3823436.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.6,
+          "transport_options": "Free stop on the Awana SkyWay cable car route."
+        },
+        {
+          "id": "act017",
+          "name": "Genting Highlands Premium Outlets (Optional Shopping)",
+          "category": "Shopping",
+          "description": "Late afternoon (around 5:00 PM): After visiting Chin Swee Temple, take the cable car back down to Awana Station. Adjacent to it is the Genting Highlands Premium Outlets. If interested in branded goods at discounted prices, spend an hour browsing here before heading back to KL.",
+          "address": "Genting Highlands Premium Outlets, KM13, Genting Highlands, Pahang",
+          "location_string_for_grab": "Genting Highlands Premium Outlets",
+          "coordinates": [
+            101.791,
+            3.393
+          ],
+          "price_myr": 0,
+          "time_available": "Daily 10:00 - 22:00",
+          "image_url": "https://images.pexels.com/photos/28388982/pexels-photo-28388982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.1,
+          "transport_options": "Located at the Awana SkyWay station (base/mid station)."
+        },
+        {
+          "id": "act018",
+          "name": "Return to Kuala Lumpur",
+          "category": "Transport",
+          "description": "Evening (depart Genting around 6:30 PM - 7:00 PM): Take an express bus from Awana Bus Terminal or a Grab/Taxi back to Kuala Lumpur. Arrive in KL by 8:00 PM - 8:30 PM. Have dinner near your hotel.",
+          "address": "Awana Bus Terminal to KL Sentral/Hotel",
+          "location_string_for_grab": "Awana Bus Terminal, Genting Highlands",
+          "coordinates": [
+            101.792,
+            3.3925
+          ],
+          "price_myr": 15,
+          "time_available": "Evening",
+          "image_url": "https://images.pexels.com/photos/1538177/pexels-photo-1538177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Express bus from Awana Station or Grab/Taxi."
+        }
+      ]
+    },
+    {
+      "routeName": "Putrajaya's Modern Marvels & KL Evening",
+      "activities": [
+        {
+          "id": "act019",
+          "name": "Morning Trip to Putrajaya",
+          "category": "Day Trip/Architecture",
+          "description": "Morning (around 9:00 AM): Travel to Putrajaya, Malaysia's federal administrative capital, known for its impressive modern architecture and planned landscape. Take the KLIA Transit train from KL Sentral to Putrajaya & Cyberjaya station (approx. 20-25 mins, RM14 one way) or a Grab/taxi (approx. 30-40 mins).",
+          "address": "KL Sentral to Putrajaya Sentral",
+          "location_string_for_grab": "Putrajaya Sentral",
+          "coordinates": [
+            101.688,
+            2.944
+          ],
+          "price_myr": 14,
+          "time_available": "Morning",
+          "image_url": "https://images.pexels.com/photos/338416/pexels-photo-338416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "KLIA Transit train, Grab/Taxi."
+        },
+        {
+          "id": "act020",
+          "name": "Visit Putra Mosque (Pink Mosque)",
+          "category": "Culture/Architecture",
+          "description": "From Putrajaya Sentral, take a short Grab ride to Putra Mosque (Masjid Putra). Admire its stunning pink dome and architecture, located by Putrajaya Lake. Non-Muslims can visit outside prayer times; robes are provided. Allow about 1 hour.",
+          "address": "Persiaran Persekutuan, Presint 1, 62502 Putrajaya",
+          "location_string_for_grab": "Putra Mosque, Putrajaya",
+          "coordinates": [
+            101.6891,
+            2.9361
+          ],
+          "price_myr": 0,
+          "time_available": "Sat-Thu 09:00-12:30, 14:00-16:00, 17:30-18:00; Fri 15:00-16:00, 17:30-18:00 (Visitor Hours).",
+          "image_url": "https://images.pexels.com/photos/27797400/pexels-photo-27797400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.7,
+          "transport_options": "Grab/Taxi from Putrajaya Sentral."
+        },
+        {
+          "id": "act021",
+          "name": "Perdana Putra (Prime Minister's Office) & Putrajaya Lake Cruise (Optional)",
+          "category": "Scenic/Architecture",
+          "description": "Walk around Dataran Putra, view Perdana Putra (Prime Minister's Office complex) from outside. Consider a leisurely cruise on Putrajaya Lake (Cruise Tasik Putrajaya, approx. RM50 for 45 mins sightseeing cruise) for different views of the city's landmarks. Have lunch at a lakeside restaurant or at Ayer@8.",
+          "address": "Dataran Putra, Presint 1, Putrajaya",
+          "location_string_for_grab": "Dataran Putra, Putrajaya",
+          "coordinates": [
+            101.69,
+            2.935
+          ],
+          "price_myr": 50,
+          "time_available": "Daylight hours. Cruise schedules vary.",
+          "image_url": "https://images.pexels.com/photos/415590/pexels-photo-415590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.3,
+          "transport_options": "Walkable from Putra Mosque. Grab for longer distances within Putrajaya."
+        },
+        {
+          "id": "act022",
+          "name": "Return to KL & Evening Free",
+          "category": "Transport/Leisure",
+          "description": "Mid-afternoon (around 3:00 PM - 4:00 PM): Travel back to Kuala Lumpur from Putrajaya Sentral. The rest of the evening is free for relaxation, shopping, or exploring an area you missed.",
+          "address": "Putrajaya Sentral to KL Sentral/Hotel",
+          "location_string_for_grab": "Putrajaya Sentral",
+          "coordinates": [
+            101.688,
+            2.944
+          ],
+          "price_myr": 14,
+          "time_available": "Afternoon",
+          "image_url": "https://images.pexels.com/photos/2229894/pexels-photo-2229894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "KLIA Transit train, Grab/Taxi."
+        }
+      ]
+    }
+  ],
+  "Day 5": [
+    {
+      "routeName": "Singapore Transfer & Marina Bay Evening",
+      "activities": [
+        {
+          "id": "act023",
+          "name": "Travel: Kuala Lumpur to Singapore (Flight)",
+          "category": "Transport/International",
+          "description": "Morning: Take a flight from Kuala Lumpur (KUL or SZB) to Singapore (SIN). Aim for a morning flight (e.g., depart 9:00 AM - 10:00 AM) to arrive in Singapore by late morning/early afternoon. Factor in travel time to KL airport (1 hour) and airport procedures (2 hours before flight). Flight time is approx. 1 hour.",
+          "address": "Kuala Lumpur International Airport (KUL) to Singapore Changi Airport (SIN)",
+          "location_string_for_grab": "KLIA Terminal 1",
+          "coordinates": [
+            101.7072,
+            2.7546
+          ],
+          "price_myr": 250,
+          "time_available": "Morning",
+          "image_url": "https://images.pexels.com/photos/32074540/pexels-photo-32074540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Budget airlines (AirAsia, Scoot, Jetstar) or full-service (Singapore Airlines, Malaysia Airlines). Grab/KLIA Ekspres to KUL airport."
+        },
+        {
+          "id": "act024",
+          "name": "Arrive in Singapore, Transfer to Hotel & Lunch",
+          "category": "Arrival/Logistics",
+          "description": "Upon arrival at Changi Airport (around 12:00 PM - 1:00 PM Singapore Time), clear immigration (fill SG Arrival Card online beforehand). Take the MRT (East-West Line from Changi) or a Grab/taxi to your hotel. Check in, leave luggage, and have lunch near your hotel or a hawker centre. (Singapore is 0 hours ahead of Malaysia - same time zone).",
+          "address": "Singapore Changi Airport to Singapore Hotel",
+          "location_string_for_grab": "Your Hotel in Singapore",
+          "coordinates": [
+            103.852,
+            1.2902
+          ],
+          "price_myr": 60,
+          "time_available": "Early Afternoon",
+          "image_url": "https://images.pexels.com/photos/302831/pexels-photo-302831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "MRT from Changi Airport, Grab, Airport Shuttle, Taxi."
+        },
+        {
+          "id": "p026",
+          "name": "Explore Gardens by the Bay (Cloud Forest & Flower Dome)",
+          "category": "Nature/Attraction",
+          "description": "Late Afternoon (around 3:30 PM - 4:00 PM): Visit Gardens by the Bay. Purchase tickets for the two cooled conservatories: Cloud Forest (with its indoor waterfall and mist-filled mountain) and Flower Dome (showcasing exotic plants from different regions). Allow at least 2-3 hours to explore both domes thoroughly.",
+          "address": "18 Marina Gardens Dr, Singapore 018953",
+          "location_string_for_grab": "Gardens by the Bay Conservatories",
+          "coordinates": [
+            103.8636,
+            1.2816
+          ],
+          "price_myr": 95,
+          "time_available": "Daily 09:00-21:00 (Conservatories)",
+          "image_url": "https://images.pexels.com/photos/8355285/pexels-photo-8355285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.7,
+          "transport_options": "MRT to Bayfront station (CE1/DT16), Exit B, follow signs. Grab/Taxi."
+        },
+        {
+          "id": "act025",
+          "name": "Supertree Grove & Garden Rhapsody Light Show",
+          "category": "Scenic/Show",
+          "description": "Evening: After the conservatories, walk through the outdoor Supertree Grove. As dusk falls, find a good spot to watch the Garden Rhapsody light and sound show, which transforms the Supertrees into a dazzling spectacle. Shows are typically at 7:45 PM and 8:45 PM.",
+          "address": "Supertree Grove, Gardens by the Bay, Singapore",
+          "location_string_for_grab": "Supertree Grove, Gardens by the Bay",
+          "coordinates": [
+            103.8648,
+            1.283
+          ],
+          "price_myr": 0,
+          "time_available": "Shows at 19:45 & 20:45 daily.",
+          "image_url": "https://images.pexels.com/photos/15989852/pexels-photo-15989852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.8,
+          "transport_options": "Located within Gardens by the Bay."
+        },
+        {
+          "id": "act026",
+          "name": "Dinner at Marina Bay Sands Food Court or Satay by the Bay",
+          "category": "Food",
+          "description": "After the Garden Rhapsody (around 9:00 PM), have dinner. Options include the extensive food court (Rasapura Masters) at The Shoppes at Marina Bay Sands, or walk to Satay by the Bay within Gardens by the Bay for local outdoor dining.",
+          "address": "The Shoppes at Marina Bay Sands / Satay by the Bay",
+          "location_string_for_grab": "Rasapura Masters, Marina Bay Sands",
+          "coordinates": [
+            103.8588,
+            1.283
+          ],
+          "price_myr": 70,
+          "time_available": "Evening, until ~22:00-23:00",
+          "image_url": "https://images.pexels.com/photos/326787/pexels-photo-326787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4,
+          "transport_options": "Walking distance from Supertree Grove."
+        }
+      ]
+    },
+    {
+      "routeName": "KL Relaxation & Hidden Gems",
+      "activities": [
+        {
+          "id": "act027",
+          "name": "Morning Coffee & Art at The Zhongshan Building",
+          "category": "Culture/Arts/Cafe",
+          "description": "Morning (around 10:00 AM): Visit The Zhongshan Building, a creative hub housed in a row of 1950s shophouses. Explore independent bookstores, art galleries, design studios, and enjoy a specialty coffee at one of its cool cafes like POKO Rekords or Tommy Le Baker. A more offbeat KL experience.",
+          "address": "Jalan Kampung Attap, 80 - 84, Jalan Rotan, 50460 Kuala Lumpur",
+          "location_string_for_grab": "The Zhongshan Building, Kampung Attap",
+          "coordinates": [
+            101.696,
+            3.1365
+          ],
+          "price_myr": 20,
+          "time_available": "Most shops/cafes open from 10:00/11:00 AM onwards, check individual store hours.",
+          "image_url": "https://images.pexels.com/photos/904346/pexels-photo-904346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.5,
+          "transport_options": "Grab/Taxi is easiest. Nearest LRT/Monorail (Maharajalela/Hang Tuah) requires a bit of walking."
+        },
+        {
+          "id": "p024",
+          "name": "LaZat Malay Cooking Class (Half Day)",
+          "category": "Immersive Experience/Culture",
+          "description": "If pre-booked (usually starts 8:30 AM with market tour, or afternoon class might be available): Participate in a LaZat Malay Cooking Class. Learn to cook authentic Malaysian dishes in a home setting. This is a highly-rated, engaging experience. Duration approx. 4-5 hours including meal.",
+          "address": "Penchala Hills (exact address upon booking), Kuala Lumpur",
+          "location_string_for_grab": "LaZat Cooking School (check specific location)",
+          "coordinates": [
+            101.627,
+            3.158
+          ],
+          "price_myr": 290,
+          "time_available": "Typically Weekdays 08:30-14:30, check for afternoon options.",
+          "image_url": "https://images.pexels.com/photos/7545559/pexels-photo-7545559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 5,
+          "transport_options": "Often includes hotel pickup for morning class. Otherwise Grab/Taxi (approx 30 min from city center)."
+        },
+        {
+          "id": "act028b",
+          "name": "Relaxing Afternoon: Spa or Pool Time",
+          "category": "Leisure/Wellness",
+          "description": "If not doing a cooking class, use the afternoon for relaxation. Enjoy your hotel pool, book a spa treatment, or visit a local wellness center for a traditional massage.",
+          "address": "Your Hotel or nearby Spa",
+          "location_string_for_grab": "Your Hotel Spa",
+          "coordinates": [
+            101.706,
+            3.141
+          ],
+          "price_myr": 150,
+          "time_available": "Afternoon",
+          "image_url": "https://images.pexels.com/photos/8028640/pexels-photo-8028640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Varies."
+        },
+        {
+          "id": "p007",
+          "name": "Evening Visit to Thean Hou Temple",
+          "category": "Culture/Scenic",
+          "description": "Late afternoon/early evening (around 5:30 PM - 6:00 PM): Visit the Thean Hou Temple. This large and ornate Chinese temple is beautifully illuminated as dusk approaches, offering great photo opportunities and city views. Less crowded than daytime.",
+          "address": "65, Persiaran Endah, Taman Persiaran Desa, 50460 Kuala Lumpur",
+          "location_string_for_grab": "Thean Hou Temple, Kuala Lumpur",
+          "coordinates": [
+            101.688,
+            3.122
+          ],
+          "price_myr": 0,
+          "time_available": "Daily ~08:00–20:00 (lighting usually on in evening)",
+          "image_url": "https://images.pexels.com/photos/25683051/pexels-photo-25683051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.5,
+          "transport_options": "Grab/Taxi is most convenient."
+        }
+      ]
+    }
+  ],
+  "Day 6": [
+    {
+      "routeName": "Singapore Cultural & Shopping Exploration",
+      "activities": [
+        {
+          "id": "act029b",
+          "name": "Morning: Little India & Mustafa Centre, Singapore",
+          "category": "Culture/Shopping",
+          "description": "Morning (around 9:30 AM): Explore Singapore's vibrant Little India. Walk through the streets, visit Sri Veeramakaliamman Temple, and experience the sights, sounds, and smells. Then, head to the famous 24-hour Mustafa Centre for an eclectic shopping experience – you can find almost anything here.",
+          "address": "Serangoon Road, Little India, Singapore / Mustafa Centre, 145 Syed Alwi Rd",
+          "location_string_for_grab": "Mustafa Centre, Singapore",
+          "coordinates": [
+            103.854,
+            1.309
+          ],
+          "price_myr": 0,
+          "time_available": "Mustafa Centre is 24 hours; Little India vibrant in morning/day.",
+          "image_url": "https://images.pexels.com/photos/23338516/pexels-photo-23338516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.3,
+          "transport_options": "MRT to Little India Station (NE7/DT12) or Farrer Park Station (NE8)."
+        },
+        {
+          "id": "act030",
+          "name": "Lunch in Little India or Kampong Glam",
+          "category": "Food",
+          "description": "Enjoy lunch (around 1:00 PM) in Little India (try Tekka Centre for hawker food) or take a short MRT/bus ride to Kampong Glam for Malay/Middle Eastern cuisine (e.g., Nasi Padang at Hjh Maimunah or Murtabak at Victory/Zam Zam).",
+          "address": "Tekka Centre, Little India / Arab Street, Kampong Glam, Singapore",
+          "location_string_for_grab": "Tekka Centre, Singapore",
+          "coordinates": [
+            103.8515,
+            1.307
+          ],
+          "price_myr": 40,
+          "time_available": "Lunchtime",
+          "image_url": "https://images.pexels.com/photos/1538177/pexels-photo-1538177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4,
+          "transport_options": "Walk within Little India or MRT/Bus to Kampong Glam (Bugis Station)."
+        },
+        {
+          "id": "act031",
+          "name": "Afternoon: Orchard Road Shopping or National Museum",
+          "category": "Shopping/Culture/Museum",
+          "description": "Afternoon (around 3:00 PM): Choose your adventure. Either head to Orchard Road for high-end mall shopping and people-watching, OR visit the National Museum of Singapore to learn about the nation's history and culture. Allow 2-3 hours.",
+          "address": "Orchard Road, Singapore / National Museum of Singapore, 93 Stamford Rd",
+          "location_string_for_grab": "ION Orchard, Singapore",
+          "coordinates": [
+            103.8317,
+            1.304
+          ],
+          "price_myr": 0,
+          "time_available": "Malls 10:00-22:00; Museum 10:00-19:00",
+          "image_url": "https://images.pexels.com/photos/30873985/pexels-photo-30873985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.5,
+          "transport_options": "MRT to Orchard Station (NS22/TE14) or Dhoby Ghaut Station (NS24/NE6/CC1) for Museum."
+        },
+        {
+          "id": "act032",
+          "name": "Evening: Clarke Quay Riverside Dinner & Atmosphere",
+          "category": "Nightlife/Food",
+          "description": "Evening (around 7:30 PM): Experience the lively atmosphere of Clarke Quay. Enjoy dinner at one of the many riverside restaurants offering various cuisines. Afterwards, take a stroll along the Singapore River or consider a river cruise if you didn't do one in Malacca.",
+          "address": "3 River Valley Rd, Singapore 179024",
+          "location_string_for_grab": "Clarke Quay Central, Singapore",
+          "coordinates": [
+            103.846,
+            1.2905
+          ],
+          "price_myr": 80,
+          "time_available": "Evening till late",
+          "image_url": "https://images.pexels.com/photos/15314394/pexels-photo-15314394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.2,
+          "transport_options": "MRT to Clarke Quay Station (NE5) or Fort Canning Station (DT20). Grab/Taxi."
+        },
+        {
+          "id": "act033",
+          "name": "Travel: Singapore to Kuala Lumpur (Evening/Night)",
+          "category": "Transport/International",
+          "description": "Late evening: Depending on your preference, take an evening flight (e.g., 9:00 PM - 10:00 PM from SIN) or an overnight luxury coach back to Kuala Lumpur. Factor in travel time to Changi Airport/bus terminal and check-in procedures.",
+          "address": "Singapore Changi Airport (SIN) to Kuala Lumpur (KUL)",
+          "location_string_for_grab": "Singapore Changi Airport Terminal 1",
+          "coordinates": [
+            103.9915,
+            1.3644
+          ],
+          "price_myr": 150,
+          "time_available": "Evening/Night",
+          "image_url": "https://images.pexels.com/photos/32074540/pexels-photo-32074540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Flight or overnight coach (e.g., Aeroline, Transtar Solitaire)."
+        }
+      ]
+    },
+    {
+      "routeName": "KL Nature & Adventure Focus",
+      "activities": [
+        {
+          "id": "p025",
+          "name": "Broga Hill Sunrise Hike",
+          "category": "Nature/Adventure",
+          "description": "Very early morning (depart KL around 4:30 AM to arrive at Broga by 5:15-5:30 AM): Hike up Broga Hill (Bukit Lalang) to witness a spectacular sunrise over the surrounding landscape. The hike is moderately easy and takes about 45-60 minutes to the first peak. Popular spot, so expect some crowds on weekends.",
+          "address": "Jalan Broga, 71750 Semenyih, Selangor, Malaysia",
+          "location_string_for_grab": "Broga Hill Starting Point, Semenyih",
+          "coordinates": [
+            101.9,
+            2.94
+          ],
+          "price_myr": 5,
+          "time_available": "Best for sunrise (arrive at base ~05:30).",
+          "image_url": "https://images.pexels.com/photos/9908248/pexels-photo-9908248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.6,
+          "transport_options": "Grab/Taxi (arrange return trip or expect difficulty getting Grab back early). Self-drive or join a tour group."
+        },
+        {
+          "id": "act034",
+          "name": "Breakfast in Semenyih & Return to KL",
+          "category": "Food/Transport",
+          "description": "After the sunrise hike (around 8:00 AM - 9:00 AM), have breakfast at a local eatery in Semenyih town before heading back to Kuala Lumpur. Rest and freshen up at your hotel.",
+          "address": "Semenyih Town, Selangor",
+          "location_string_for_grab": "Semenyih Town",
+          "coordinates": [
+            101.846,
+            2.95
+          ],
+          "price_myr": 20,
+          "time_available": "Morning",
+          "image_url": "https://images.pexels.com/photos/904346/pexels-photo-904346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Local eateries. Grab/Taxi back to KL."
+        },
+        {
+          "id": "p021",
+          "name": "Afternoon at Sunway Lagoon Theme Park",
+          "category": "Adventure/Theme Park",
+          "description": "After resting (around 1:00 PM - 2:00 PM travel): Head to Sunway Lagoon Theme Park. Spend the rest of the afternoon and early evening enjoying its multiple parks: Water Park, Amusement Park, Wildlife Park, etc. Great for a mix of thrill and relaxation. (Note: Closed Tuesdays).",
+          "address": "3, Jalan PJS 11/11, Bandar Sunway, 47500 Selangor",
+          "location_string_for_grab": "Sunway Lagoon Main Entrance",
+          "coordinates": [
+            101.6091,
+            3.0717
+          ],
+          "price_myr": 200,
+          "time_available": "Wed–Mon 10:00-18:00",
+          "image_url": "https://images.pexels.com/photos/13648262/pexels-photo-13648262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.6,
+          "transport_options": "Grab/Taxi (approx. 20-30 mins from KL city). KTM to Subang Jaya then feeder bus/taxi. BRT Sunway Line."
+        },
+        {
+          "id": "act035",
+          "name": "Dinner at Sunway Pyramid Mall or Return to KL",
+          "category": "Food/Shopping",
+          "description": "Evening (after Sunway Lagoon closes around 6:00 PM): Have dinner at one of the many restaurants in the adjacent Sunway Pyramid mall, or travel back to KL city center for dinner.",
+          "address": "Sunway Pyramid Mall, Bandar Sunway, Selangor",
+          "location_string_for_grab": "Sunway Pyramid Mall",
+          "coordinates": [
+            101.608,
+            3.073
+          ],
+          "price_myr": 50,
+          "time_available": "Evening, mall open till 22:00",
+          "image_url": "https://images.pexels.com/photos/12849349/pexels-photo-12849349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.4,
+          "transport_options": "Walk from Sunway Lagoon. Grab/Taxi or public transport back to KL."
+        }
+      ]
+    }
+  ],
+  "Day 7": [
+    {
+      "routeName": "Southern Thailand Adventure - Day 1 (Travel to Hat Yai & City Exploration)",
+      "activities": [
+        {
+          "id": "act036",
+          "name": "Travel: Kuala Lumpur to Hat Yai, Thailand (Flight or Bus/Minivan)",
+          "category": "Transport/International",
+          "description": "Morning: Travel from Kuala Lumpur to Hat Yai in Southern Thailand. Option 1 (Faster): Fly from KUL to HDY (Hat Yai International Airport) - approx. 1h15m flight. Option 2 (Cheaper but longer): Take an early morning express bus or minivan from TBS or Pudu Sentral in KL to Hat Yai (approx. 7-9 hours including border crossing). Aim to arrive in Hat Yai by early/mid-afternoon. Remember Thailand is 1 hour behind Malaysia.",
+          "address": "KLIA/TBS (KL) to Hat Yai (Thailand)",
+          "location_string_for_grab": "Hat Yai International Airport (HDY)",
+          "coordinates": [
+            100.3935,
+            6.934
+          ],
+          "price_myr": 200,
+          "time_available": "Morning departure",
+          "image_url": "https://images.pexels.com/photos/237593/pexels-photo-237593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Flight (e.g., AirAsia). Bus/Minivan (e.g., Konsortium, Alisan Golden Coach)."
+        },
+        {
+          "id": "act037",
+          "name": "Arrive in Hat Yai, Hotel Check-in & Lunch",
+          "category": "Arrival/Logistics",
+          "description": "Upon arrival in Hat Yai (airport or bus terminal), take a taxi, Grab, or songthaew to your hotel. Check in and leave your luggage. Have a late lunch trying some local Southern Thai cuisine near your hotel or at Kim Yong Market area. (Approx. 2:00 PM - 3:00 PM Thai time).",
+          "address": "Hat Yai City Center Hotel",
+          "location_string_for_grab": "Your Hotel in Hat Yai",
+          "coordinates": [
+            100.469,
+            7.006
+          ],
+          "price_myr": 30,
+          "time_available": "Afternoon",
+          "image_url": "https://images.pexels.com/photos/122244/pexels-photo-122244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Airport taxi/Grab. Songthaew/Grab from bus terminal."
+        },
+        {
+          "id": "act038",
+          "name": "Explore Kim Yong Market & Hat Yai City Center",
+          "category": "Market/Culture",
+          "description": "Late Afternoon (around 4:00 PM Thai time): Explore the bustling Kim Yong Market, a vibrant local market known for imported snacks, dried fruits, nuts, clothing, and local goods. Afterwards, take a walk around the central Hat Yai area, perhaps near Lee Garden Plaza.",
+          "address": "Supasarnrangsan Rd, Hat Yai, Hat Yai District, Songkhla 90110, Thailand",
+          "location_string_for_grab": "Kim Yong Market, Hat Yai",
+          "coordinates": [
+            100.468,
+            7.005
+          ],
+          "price_myr": 0,
+          "time_available": "Market typically busy until evening.",
+          "image_url": "https://images.pexels.com/photos/1643767/pexels-photo-1643767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4,
+          "transport_options": "Walkable if staying centrally, or short songthaew/Grab ride."
+        },
+        {
+          "id": "act039",
+          "name": "Dinner & Hat Yai Nightlife (Lee Garden Plaza Area)",
+          "category": "Food/Nightlife",
+          "description": "Evening (around 7:00 PM Thai time): Enjoy dinner with Southern Thai street food specialties around Lee Garden Plaza or nearby night markets. Options include Hat Yai fried chicken, seafood, dim sum, and various noodle dishes. Experience the local nightlife, which can be quite lively.",
+          "address": "Lee Garden Plaza, 29 Prachathipat Rd, Hat Yai, Songkhla 90110, Thailand",
+          "location_string_for_grab": "Lee Garden Plaza, Hat Yai",
+          "coordinates": [
+            100.4658,
+            7.0073
+          ],
+          "price_myr": 40,
+          "time_available": "Evening till late.",
+          "image_url": "https://images.pexels.com/photos/1538177/pexels-photo-1538177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4,
+          "transport_options": "Walkable in city center. Songthaew/Grab for return to hotel if further out."
+        }
+      ]
+    },
+    {
+      "routeName": "Kuala Selangor Fireflies & Local Seafood Dinner",
+      "activities": [
+        {
+          "id": "act040",
+          "name": "Relaxed Morning & Lunch in KL",
+          "category": "Leisure/Food",
+          "description": "Enjoy a leisurely morning in Kuala Lumpur. Perhaps revisit a favorite spot, do some last-minute souvenir shopping, or relax at your hotel. Have lunch in the city at your preferred spot.",
+          "address": "Kuala Lumpur City Center",
+          "location_string_for_grab": "Your preferred lunch spot in KL",
+          "coordinates": [
+            101.706,
+            3.141
+          ],
+          "price_myr": 40,
+          "time_available": "Morning - Early Afternoon",
+          "image_url": "https://images.pexels.com/photos/19705272/pexels-photo-19705272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Varied based on activity."
+        },
+        {
+          "id": "act041",
+          "name": "Travel to Kuala Selangor",
+          "category": "Transport/Excursion",
+          "description": "Mid-afternoon (around 3:30 PM - 4:00 PM): Travel from Kuala Lumpur to Kuala Selangor (approx. 1.5 - 2 hours drive). You can hire a Grab for a one-way trip, or join a pre-booked tour that includes transport and the firefly cruise. If driving yourself or taking Grab, head towards Kampung Kuantan or Bukit Belimbing for firefly viewing.",
+          "address": "Kuala Lumpur to Kuala Selangor, Selangor",
+          "location_string_for_grab": "Kampung Kuantan Firefly Park, Kuala Selangor",
+          "coordinates": [
+            101.2495,
+            3.3389
+          ],
+          "price_myr": 80,
+          "time_available": "Afternoon travel",
+          "image_url": "https://images.pexels.com/photos/574442/pexels-photo-574442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Grab/Taxi (can be expensive for return), pre-booked tour with transport, self-drive."
+        },
+        {
+          "id": "act042",
+          "name": "Bukit Melawati (Silvered Leaf Monkeys & Lighthouse)",
+          "category": "Nature/Scenic",
+          "description": "Upon arrival in Kuala Selangor (around 5:30 PM): Visit Bukit Melawati. Here you can see the historic Altingsburg Lighthouse, cannons, and encounter friendly silvered leaf monkeys (lutungs) and long-tailed macaques. Enjoy the views over the Selangor River estuary as sunset approaches. A tram service is available on weekends.",
+          "address": "Bukit Melawati, Kuala Selangor, Selangor",
+          "location_string_for_grab": "Bukit Melawati, Kuala Selangor",
+          "coordinates": [
+            101.247,
+            3.342
+          ],
+          "price_myr": 5,
+          "time_available": "Hill accessible, tram on weekends. Best before sunset.",
+          "image_url": "https://images.pexels.com/photos/303148/pexels-photo-303148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.2,
+          "transport_options": "Short drive/walk from Kuala Selangor town. Parking available."
+        },
+        {
+          "id": "act043",
+          "name": "Seafood Dinner in Kuala Selangor",
+          "category": "Food",
+          "description": "Early Evening (around 7:00 PM): Enjoy a fresh seafood dinner at one of the riverside restaurants in Kuala Selangor, famous for their chili crabs, steamed fish, and other local seafood dishes before your firefly cruise.",
+          "address": "Pasir Penambang, Kuala Selangor (various seafood restaurants)",
+          "location_string_for_grab": "Restoran Makanan Laut Jeti, Kuala Selangor",
+          "coordinates": [
+            101.25,
+            3.345
+          ],
+          "price_myr": 60,
+          "time_available": "Dinner time",
+          "image_url": "https://images.pexels.com/photos/4110430/pexels-photo-4110430.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4,
+          "transport_options": "Many restaurants are near the jetties for firefly tours."
+        },
+        {
+          "id": "p023",
+          "name": "Kuala Selangor Fireflies Night Cruise",
+          "category": "Nature/Experience",
+          "description": "Evening (boat departures usually start around 7:45 PM - 8:00 PM): Embark on a magical boat ride along the Selangor River (from Kampung Kuantan or Bukit Belimbing jetty) to witness thousands of fireflies (kelip-kelip) illuminating the berembang trees along the riverbanks. This synchronized twinkling is a unique natural spectacle. The boat ride is typically on a quiet, traditional sampan or small motorized boat.",
+          "address": "Kampung Kuantan Firefly Park, Jalan Rawang, 45000 Kuala Selangor, Selangor",
+          "location_string_for_grab": "Kampung Kuantan Firefly Park, Kuala Selangor",
+          "coordinates": [
+            101.3167,
+            3.3436
+          ],
+          "price_myr": 50,
+          "time_available": "Nightly, boat departures ~19:45-22:00. Ticket purchase on site.",
+          "image_url": "https://images.pexels.com/photos/22804/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.5,
+          "transport_options": "Located a short drive from seafood restaurants. Ensure return transport to KL is arranged if not on a tour."
+        },
+        {
+          "id": "act044",
+          "name": "Return to Kuala Lumpur",
+          "category": "Transport",
+          "description": "Night (after firefly cruise, around 9:30 PM - 10:00 PM): Travel back to Kuala Lumpur. If on a tour, transport will be included. If independent, ensure your Grab/taxi is pre-arranged for the return journey as it can be difficult to find transport late at night from Kuala Selangor.",
+          "address": "Kuala Selangor to Kuala Lumpur",
+          "location_string_for_grab": "Your Hotel in Kuala Lumpur",
+          "coordinates": [
+            101.706,
+            3.141
+          ],
+          "price_myr": 0,
+          "time_available": "Night",
+          "image_url": "https://images.pexels.com/photos/1538177/pexels-photo-1538177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Pre-arranged Grab/taxi, tour bus."
+        }
+      ]
+    }
+  ],
+  "Day 8": [
+    {
+      "routeName": "Southern Thailand Adventure - Day 2 (Songkhla & Nature)",
+      "activities": [
+        {
+          "id": "act045",
+          "name": "Morning Trip to Songkhla Old Town & Lake",
+          "category": "Culture/Scenic",
+          "description": "Morning (around 9:00 AM Thai time): Take a day trip from Hat Yai to Songkhla town (approx. 30-40 mins drive). Explore Songkhla's charming Old Town with its Sino-Portuguese architecture, street art, and visit the National Museum. Enjoy views of Songkhla Lake, the largest natural lake in Thailand.",
+          "address": "Songkhla Old Town, Songkhla, Thailand",
+          "location_string_for_grab": "Songkhla Old Town",
+          "coordinates": [
+            100.59,
+            7.2
+          ],
+          "price_myr": 10,
+          "time_available": "Morning/Daylight hours",
+          "image_url": "https://images.pexels.com/photos/17005639/pexels-photo-17005639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.2,
+          "transport_options": "Hire Grab/taxi for a few hours, or take a local bus/songthaew from Hat Yai to Songkhla."
+        },
+        {
+          "id": "act046",
+          "name": "Visit Samila Beach & Mermaid Statue",
+          "category": "Scenic/Beach",
+          "description": "Continue to Samila Beach in Songkhla. Take photos with the iconic Golden Mermaid statue, relax on the beach, and enjoy the coastal atmosphere. You can buy snacks from local vendors. It's a popular spot for locals and tourists alike.",
+          "address": "Samila Beach, Songkhla, Thailand",
+          "location_string_for_grab": "Samila Beach Golden Mermaid, Songkhla",
+          "coordinates": [
+            100.596,
+            7.21
+          ],
+          "price_myr": 0,
+          "time_available": "Daylight hours",
+          "image_url": "https://images.pexels.com/photos/949798/pexels-photo-949798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4,
+          "transport_options": "Part of Songkhla day trip; easily accessible by local transport within Songkhla."
+        },
+        {
+          "id": "act047",
+          "name": "Lunch in Songkhla & Return to Hat Yai",
+          "category": "Food/Transport",
+          "description": "Have lunch at a seafood restaurant in Songkhla or try local dishes. Mid-afternoon (around 2:00 PM - 3:00 PM Thai time), travel back to Hat Yai.",
+          "address": "Songkhla Town / Hat Yai",
+          "location_string_for_grab": "Restaurants near Samila Beach, Songkhla",
+          "coordinates": [
+            100.593,
+            7.208
+          ],
+          "price_myr": 30,
+          "time_available": "Lunchtime/Afternoon",
+          "image_url": "https://images.pexels.com/photos/17622599/pexels-photo-17622599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Grab/taxi/bus back to Hat Yai."
+        },
+        {
+          "id": "act048",
+          "name": "Optional: Ton Nga Chang Waterfall or Relax in Hat Yai",
+          "category": "Nature/Leisure",
+          "description": "Late Afternoon: If you have energy and didn't go yesterday, consider a trip to Ton Nga Chang Waterfall (allow 3 hours including travel). Alternatively, relax in Hat Yai, get a Thai massage, or do some light shopping.",
+          "address": "Ton Nga Chang Wildlife Sanctuary / Hat Yai City",
+          "location_string_for_grab": "Ton Nga Chang Waterfall",
+          "coordinates": [
+            100.2336,
+            6.9478
+          ],
+          "price_myr": 20,
+          "time_available": "Waterfall park closes around 17:00.",
+          "image_url": "https://images.pexels.com/photos/17622599/pexels-photo-17622599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.5,
+          "transport_options": "Grab/taxi for waterfall. City activities walkable or short rides."
+        },
+        {
+          "id": "act049",
+          "name": "Evening: ASEAN Night Bazaar or Greenway Night Market",
+          "category": "Market/Food",
+          "description": "Evening (around 7:00 PM Thai time): Explore one of Hat Yai's popular night markets. ASEAN Night Bazaar offers a mix of fashion, souvenirs, and a large food court. Greenway Night Market is also a good option for food and local finds. Enjoy dinner at the market.",
+          "address": "ASEAN Night Bazaar, Thanon Chotevittayakul 3, Hat Yai",
+          "location_string_for_grab": "ASEAN Night Bazaar, Hat Yai",
+          "coordinates": [
+            100.4745,
+            7.0137
+          ],
+          "price_myr": 30,
+          "time_available": "Markets open approx. 16:30 - 22:00 (ASEAN Bazaar closed Mondays).",
+          "image_url": "https://images.pexels.com/photos/22804/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4,
+          "transport_options": "Grab or tuk-tuk from city center."
+        }
+      ]
+    },
+    {
+      "routeName": "KL Arts, Crafts & Rooftop Views",
+      "activities": [
+        {
+          "id": "act050",
+          "name": "Morning: Batik Painting Workshop or Craft Complex",
+          "category": "Culture/Arts/Workshop",
+          "description": "Morning (around 10:00 AM): Engage in a creative activity. Option 1: Join a Batik painting workshop (various locations offer 2-3 hour sessions, e.g., Jadi Batek Gallery, MyBatik). Option 2: Visit the Kuala Lumpur Craft Complex (Kompleks Kraf Kuala Lumpur) to see artisans at work and shop for high-quality Malaysian handicrafts.",
+          "address": "Jadi Batek Gallery, 30 Jalan Inai, Imbi, KL / Kompleks Kraf, Jalan Conlay, KL",
+          "location_string_for_grab": "Jadi Batek Gallery, Kuala Lumpur",
+          "coordinates": [
+            101.7189,
+            3.1446
+          ],
+          "price_myr": 80,
+          "time_available": "Workshops usually 10:00-17:00, book ahead. Craft Complex 09:00-18:00.",
+          "image_url": "https://images.pexels.com/photos/2422574/pexels-photo-2422574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.4,
+          "transport_options": "Grab/Taxi to chosen location."
+        },
+        {
+          "id": "act051",
+          "name": "Lunch at a Cafe with Local Art",
+          "category": "Food/Culture",
+          "description": "After your morning activity (around 1:00 PM): Have lunch at a cafe that supports local artists or has a unique ambiance, perhaps in areas like Bangsar, TTDI, or near the craft complex.",
+          "address": "Various locations, e.g., APW Bangsar",
+          "location_string_for_grab": "APW Bangsar",
+          "coordinates": [
+            101.67,
+            3.132
+          ],
+          "price_myr": 40,
+          "time_available": "Lunchtime",
+          "image_url": "https://images.pexels.com/photos/30572925/pexels-photo-30572925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Grab/Taxi."
+        },
+        {
+          "id": "p015",
+          "name": "Afternoon Thrills at Berjaya Times Square Theme Park",
+          "category": "Adventure/Entertainment",
+          "description": "Afternoon (around 3:00 PM): Head to Berjaya Times Square Theme Park, Malaysia's largest indoor theme park. Enjoy some of the thrill rides, including the Supersonic Odyssey roller coaster, or gentler family attractions. Spend 2-3 hours.",
+          "address": "Berjaya Times Square, 1, Jalan Imbi, 55100 Kuala Lumpur",
+          "location_string_for_grab": "Berjaya Times Square Theme Park Entrance",
+          "coordinates": [
+            101.71,
+            3.1425
+          ],
+          "price_myr": 70,
+          "time_available": "Mon–Fri 12:00–20:00; Sat–Sun & Holidays 11:00–20:00",
+          "image_url": "https://images.pexels.com/photos/205077/pexels-photo-205077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4,
+          "transport_options": "Monorail to Imbi station (direct access). Grab/Taxi."
+        },
+        {
+          "id": "act052",
+          "name": "Sunset Views from a KL Rooftop Bar (Alternative to Heli Lounge)",
+          "category": "Nightlife/Scenic",
+          "description": "Evening (around 6:30 PM for sunset): If you've already done Heli Lounge or want another option, visit a different rooftop bar for sunset views. Consider Marini's on 57 (near Petronas Towers, dress code), Vertigo @ Banyan Tree, or SkyBar @ Traders Hotel.",
+          "address": "Vertigo, Banyan Tree Kuala Lumpur, Jalan Conlay",
+          "location_string_for_grab": "Vertigo Banyan Tree Kuala Lumpur",
+          "coordinates": [
+            101.715,
+            3.152
+          ],
+          "price_myr": 60,
+          "time_available": "Evenings, check specific bar hours.",
+          "image_url": "https://images.pexels.com/photos/122244/pexels-photo-122244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.5,
+          "transport_options": "Grab/Taxi or Monorail/LRT depending on bar location."
+        },
+        {
+          "id": "act053",
+          "name": "Dinner in Changkat Bukit Bintang or TREC KL",
+          "category": "Food/Nightlife",
+          "description": "After sunset drinks, have dinner in a lively area. Changkat Bukit Bintang offers many international restaurants and bars. TREC KL is another entertainment hub with diverse dining and nightlife options.",
+          "address": "TREC KL, Jalan Tun Razak, Kuala Lumpur",
+          "location_string_for_grab": "TREC KL",
+          "coordinates": [
+            101.721,
+            3.14
+          ],
+          "price_myr": 70,
+          "time_available": "Evening till late.",
+          "image_url": "https://images.pexels.com/photos/303148/pexels-photo-303148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.1,
+          "transport_options": "Grab/Taxi."
+        }
+      ]
+    }
+  ],
+  "Day 9": [
+    {
+      "routeName": "Batam Island (Indonesia) Quick Escape - Day 1 (Travel & Exploration)",
+      "activities": [
+        {
+          "id": "act054",
+          "name": "Travel: Singapore to Batam Island (Ferry)",
+          "category": "Transport/International",
+          "description": "If you chose the Singapore route and want a quick Indonesian experience: Morning ferry from Singapore (HarbourFront Centre) to Batam Centre, Batam Island, Indonesia. Ferries are frequent (e.g., BatamFast, Majestic Ferry) and take about 1 hour. Clear Singapore exit and Indonesian entry immigration. (Indonesia is 1 hour behind Singapore). Aim for an early ferry (e.g., 8:30 AM - 9:00 AM SG time) to maximize your day. Arrive Batam around 8:30-9:00 AM local time.",
+          "address": "HarbourFront Centre, Singapore to Batam Centre Ferry Terminal, Batam",
+          "location_string_for_grab": "HarbourFront Ferry Terminal, Singapore",
+          "coordinates": [
+            103.82,
+            1.2644
+          ],
+          "price_myr": 150,
+          "time_available": "Morning ferry departures.",
+          "image_url": "https://images.pexels.com/photos/32001854/pexels-photo-32001854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.3,
+          "transport_options": "MRT to HarbourFront (Singapore). Book ferry tickets online in advance."
+        },
+        {
+          "id": "act055",
+          "name": "Batam Hotel Check-in & Barelang Bridge Tour",
+          "category": "Logistics/Scenic",
+          "description": "Upon arrival at Batam Centre, take a taxi/Grab to your hotel (if staying overnight) or arrange for a driver/taxi for a few hours. Visit the iconic Barelang Bridge (Jembatan Barelang I - Tengku Fisabilillah Bridge), a series of six bridges connecting Batam to other islands. It's about a 30-40 minute drive from Batam Centre. Enjoy the views and take photos. Have lunch at a local seafood restaurant near the bridge or back in Nagoya town.",
+          "address": "Barelang Bridge, Batam, Riau Islands, Indonesia",
+          "location_string_for_grab": "Jembatan Barelang 1, Batam",
+          "coordinates": [
+            104.0489,
+            0.9763
+          ],
+          "price_myr": 80,
+          "time_available": "Daylight hours for bridge visit.",
+          "image_url": "https://images.pexels.com/photos/122244/pexels-photo-122244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4,
+          "transport_options": "Hire a taxi/Grab for a half-day tour (negotiate price beforehand, approx. IDR 300k-400k)."
+        },
+        {
+          "id": "act056",
+          "name": "Nagoya Hill Shopping Mall & Indonesian Massage",
+          "category": "Shopping/Wellness",
+          "description": "Afternoon: Head to Nagoya Hill Shopping Mall, Batam's largest mall, for some shopping (electronics, fashion, local products). Afterwards, indulge in an affordable and relaxing traditional Indonesian massage at one of the many spas in the Nagoya area.",
+          "address": "Nagoya Hill Shopping Mall, Jl. Teuku Umar, Lubuk Baja, Batam",
+          "location_string_for_grab": "Nagoya Hill Shopping Mall, Batam",
+          "coordinates": [
+            104.0125,
+            1.1461
+          ],
+          "price_myr": 100,
+          "time_available": "Mall 10:00-22:00. Spas vary.",
+          "image_url": "https://images.pexels.com/photos/12849349/pexels-photo-12849349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4,
+          "transport_options": "Taxi/Grab from Barelang area or within Nagoya."
+        },
+        {
+          "id": "act057",
+          "name": "Seafood Dinner in Batam & Evening Ferry (or Overnight)",
+          "category": "Food/Transport",
+          "description": "Evening: Enjoy a fresh seafood dinner at a well-known Batam seafood restaurant (e.g., Golden Prawn 933, Wey Wey Live Seafood). If doing a day trip, take an evening ferry back to Singapore (last ferries around 8:30-9:30 PM Batam time). If staying overnight, enjoy the evening in Batam.",
+          "address": "Golden Prawn 933 Seafood Restaurant, Batam / Batam Centre Ferry Terminal",
+          "location_string_for_grab": "Golden Prawn 933 Batam",
+          "coordinates": [
+            104.037,
+            1.118
+          ],
+          "price_myr": 70,
+          "time_available": "Dinner, then ferry if returning.",
+          "image_url": "https://images.pexels.com/photos/22804/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.2,
+          "transport_options": "Taxi/Grab to restaurant and ferry terminal."
+        }
+      ]
+    },
+    {
+      "routeName": "Return to KL & Last Evening Delights",
+      "activities": [
+        {
+          "id": "act058",
+          "name": "Travel: Hat Yai to KL (If on Thailand Route) / Singapore to KL (If on SG Route, not returning Day 6)",
+          "category": "Transport/International",
+          "description": "Morning: If returning from Hat Yai, take a morning flight or bus. If returning from Singapore (and didn't travel back on Day 6 evening), take a morning flight or bus to Kuala Lumpur. Arrive in KL by afternoon, check back into hotel or leave luggage.",
+          "address": "Hat Yai/Singapore to Kuala Lumpur",
+          "location_string_for_grab": "TBS (Terminal Bersepadu Selatan), Kuala Lumpur",
+          "coordinates": [
+            101.7178,
+            3.0729
+          ],
+          "price_myr": 150,
+          "time_available": "Morning/Afternoon",
+          "image_url": "https://images.pexels.com/photos/962464/pexels-photo-962464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Flight or Bus from respective city."
+        },
+        {
+          "id": "act059",
+          "name": "Relaxed Afternoon: Souvenir Shopping or Cafe Hopping",
+          "category": "Leisure/Shopping",
+          "description": "After arriving back in KL and settling: Spend a relaxed afternoon. Do some last-minute souvenir shopping at Central Market or Petaling Street if you missed anything, or explore a trendy cafe district like APW Bangsar or The Commons Hartamas for coffee and a chill vibe.",
+          "address": "Central Market, Kuala Lumpur / APW Bangsar",
+          "location_string_for_grab": "Central Market Kuala Lumpur",
+          "coordinates": [
+            101.6957,
+            3.1458
+          ],
+          "price_myr": 30,
+          "time_available": "Afternoon",
+          "image_url": "https://images.pexels.com/photos/7990521/pexels-photo-7990521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.4,
+          "transport_options": "Grab/Taxi or LRT/Monorail."
+        },
+        {
+          "id": "p024b",
+          "name": "Farewell Dinner: LaZat Malay Cooking Class (Evening Option if available) or Special Restaurant",
+          "category": "Food/Experience",
+          "description": "For your last main evening, consider a special dining experience. Option 1: Check if LaZat or another cooking school offers a shorter evening class or a dinner-focused experience. Option 2: Choose a restaurant with great views (e.g., Thirty8 @ Grand Hyatt, Fuego @ Troika Sky Dining) or one highly rated for Malaysian fine dining.",
+          "address": "Thirty8, Grand Hyatt Kuala Lumpur, 12 Jalan Pinang / LaZat Cooking (check availability)",
+          "location_string_for_grab": "Thirty8 Grand Hyatt Kuala Lumpur",
+          "coordinates": [
+            101.713,
+            3.154
+          ],
+          "price_myr": 150,
+          "time_available": "Evening, reservations recommended for fine dining.",
+          "image_url": "https://images.pexels.com/photos/27681471/pexels-photo-27681471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.8,
+          "transport_options": "Grab/Taxi."
+        }
+      ]
+    }
+  ],
+  "Day 10": [
+    {
+      "routeName": "Last KL Moments & Departure Preparations",
+      "activities": [
+        {
+          "id": "act060",
+          "name": "Morning: Last Walk or Revisit a Favorite Spot",
+          "category": "Leisure",
+          "description": "Enjoy your last morning in Kuala Lumpur. Depending on your flight time, you could take a final stroll through KLCC Park, revisit a market for last-minute buys, or enjoy a leisurely Malaysian breakfast (Roti Canai, Nasi Lemak) at a local kopitiam.",
+          "address": "Kuala Lumpur City Center",
+          "location_string_for_grab": "KLCC Park",
+          "coordinates": [
+            101.7145,
+            3.1557
+          ],
+          "price_myr": 20,
+          "time_available": "Morning",
+          "image_url": "https://images.pexels.com/photos/18688551/pexels-photo-18688551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Walk, LRT/Monorail, Grab."
+        },
+        {
+          "id": "act061",
+          "name": "Pack & Hotel Check-out",
+          "category": "Logistics",
+          "description": "Return to your hotel, finish packing, and check out according to your hotel's policy (usually by 12:00 PM). You can arrange to leave your luggage with the concierge if your flight is later in the day.",
+          "address": "Your Hotel",
+          "location_string_for_grab": "Your Hotel",
+          "coordinates": [
+            101.706,
+            3.141
+          ],
+          "price_myr": 0,
+          "time_available": "Late Morning",
+          "image_url": "https://images.pexels.com/photos/122244/pexels-photo-122244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "N/A"
+        },
+        {
+          "id": "act062",
+          "name": "Final Lunch & Last Minute Errands",
+          "category": "Food/Leisure",
+          "description": "Have a final Malaysian lunch. If you have time before heading to the airport, you could do some quick shopping for anything you forgot or pick up some local snacks to take home.",
+          "address": "Shopping Mall near Hotel or KL Sentral",
+          "location_string_for_grab": "NU Sentral Mall (if departing from KL Sentral)",
+          "coordinates": [
+            101.687,
+            3.1335
+          ],
+          "price_myr": 40,
+          "time_available": "Early Afternoon",
+          "image_url": "https://images.pexels.com/photos/1538177/pexels-photo-1538177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Varied."
+        }
+      ]
+    },
+    {
+      "routeName": "Batam Day Trip Return & Singapore Last Bites (If on that route)",
+      "activities": [
+        {
+          "id": "act063",
+          "name": "Travel: Batam to Singapore (Morning Ferry)",
+          "category": "Transport/International",
+          "description": "If you stayed overnight in Batam: Take a morning ferry from Batam Centre back to Singapore (HarbourFront Centre). Allow for immigration procedures. Arrive in Singapore late morning.",
+          "address": "Batam Centre Ferry Terminal to HarbourFront Centre, Singapore",
+          "location_string_for_grab": "Batam Centre Ferry Terminal",
+          "coordinates": [
+            104.0551,
+            1.1307
+          ],
+          "price_myr": 75,
+          "time_available": "Morning",
+          "image_url": "https://images.pexels.com/photos/32074540/pexels-photo-32074540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.3,
+          "transport_options": "Ferry (BatamFast, Majestic Ferry)."
+        },
+        {
+          "id": "act064",
+          "name": "Last Singapore Exploration or Shopping (e.g., Jewel Changi)",
+          "category": "Leisure/Shopping",
+          "description": "Depending on your flight schedule from Singapore (if flying out from SIN instead of KUL): Store luggage at your hotel or airport. Spend a few hours doing last-minute shopping on Orchard Road, exploring another neighborhood like Tiong Bahru, or visit Jewel Changi Airport early to see its attractions (Rain Vortex, Canopy Park) before your flight.",
+          "address": "Jewel Changi Airport, Singapore",
+          "location_string_for_grab": "Jewel Changi Airport",
+          "coordinates": [
+            103.989,
+            1.36
+          ],
+          "price_myr": 0,
+          "time_available": "Flexible, depends on flight.",
+          "image_url": "https://images.pexels.com/photos/30999221/pexels-photo-30999221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": 4.8,
+          "transport_options": "MRT to Changi Airport. Airport Express."
+        },
+        {
+          "id": "act065",
+          "name": "Travel: Singapore to Kuala Lumpur for Departure (If needed)",
+          "category": "Transport",
+          "description": "If your main departure is from KL but you did the Batam/SG trip: Travel from Singapore back to KL by an afternoon flight or bus, ensuring enough time to get to KUL airport for your international departure on Day 11 (noon). This might mean arriving in KL late on Day 10.",
+          "address": "Singapore to Kuala Lumpur (TBS/KUL)",
+          "location_string_for_grab": "Singapore Changi Airport",
+          "coordinates": [
+            103.9915,
+            1.3644
+          ],
+          "price_myr": 150,
+          "time_available": "Afternoon/Evening",
+          "image_url": "https://images.pexels.com/photos/2767767/pexels-photo-2767767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "Flight or express bus."
+        }
+      ]
+    }
+  ],
+  "Departure Day": [
+    {
+      "routeName": "Departure from Kuala Lumpur",
+      "activities": [
+        {
+          "id": "act066",
+          "name": "Morning: Leisurely Breakfast & Final Packing",
+          "category": "Logistics/Departure",
+          "description": "Enjoy a final Malaysian breakfast. Complete your packing and check out from your hotel (usually by 12:00 PM, but confirm if your flight is at noon on this day, you might need an earlier checkout or late checkout arrangement).",
+          "address": "Your Hotel, Kuala Lumpur",
+          "location_string_for_grab": "Your Hotel",
+          "coordinates": [
+            101.706,
+            3.141
+          ],
+          "price_myr": 20,
+          "time_available": "Morning before departure",
+          "image_url": "https://images.pexels.com/photos/904346/pexels-photo-904346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "N/A"
+        },
+        {
+          "id": "act067",
+          "name": "Travel to KLIA/KLIA2 for Noon Departure",
+          "category": "Transport/Departure",
+          "description": "Head to Kuala Lumpur International Airport (KLIA or KLIA2) for your noon departure. Allow ample time: at least 1 hour for travel to the airport and 2-3 hours for check-in, security, and immigration. For a noon flight, aim to leave your hotel by 7:30 AM - 8:00 AM at the latest.",
+          "address": "Kuala Lumpur International Airport (KLIA/KLIA2)",
+          "location_string_for_grab": "KLIA Terminal 1 Departure",
+          "coordinates": [
+            101.7072,
+            2.7546
+          ],
+          "price_myr": 70,
+          "time_available": "Morning, to reach airport by ~9:00 AM for noon flight.",
+          "image_url": "https://images.pexels.com/photos/880929/pexels-photo-880929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_solo": true,
+          "review_rating": null,
+          "transport_options": "KLIA Ekspres from KL Sentral (fastest, 28 mins). Grab/Airport Taxi (can take 1 hour+ depending on traffic)."
+        }
+      ]
+    }
+  ]
+}

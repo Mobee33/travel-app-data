@@ -1,0 +1,1212 @@
+{
+  "Day 1": [
+    {
+      "routeName": "Arrival, V&A Waterfront & Gamer's Hub",
+      "activities": [
+        {
+          "id": "cpt001",
+          "name": "Arrive in Cape Town & Transfer to Hotel",
+          "category": "Arrival/Logistics",
+          "description": "Welcome to Cape Town! Upon arrival at CPT Airport, clear immigration, collect your baggage. Use Uber/Bolt (approx. 20-30 mins, R250-R350) or a pre-booked transfer to your hotel. Check in, drop your bags, and get ready to explore.",
+          "address": "Cape Town International Airport (CPT) to City Hotel",
+          "location_string_for_grab": "Your Hotel in Cape Town City Centre",
+          "coordinates": [
+            18.4241,
+            -33.9249
+          ],
+          "price_zar": 300,
+          "time_available": "Flexible based on arrival",
+          "image_url": "https://images.pexels.com/photos/3999943/pexels-photo-3999943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": null,
+          "transport_options": "Uber, Bolt, Airport Shuttle, Pre-booked Transfer.",
+          "halal_notes": "A prayer facility is available at CPT Airport in the international arrivals terminal."
+        },
+        {
+          "id": "cpt002",
+          "name": "Lunch at Time Out Market",
+          "category": "Food/Culture",
+          "description": "After settling in (around 1:00 PM), head straight to the V&A Waterfront. Your first stop is the Time Out Market, a massive, vibrant food hall featuring curated stalls from Cape Town's best chefs. The variety is huge, ensuring you'll find something amazing to kick off your culinary journey.",
+          "address": "The Old Power Station, Building 19, V&A Waterfront",
+          "location_string_for_grab": "Time Out Market Cape Town",
+          "coordinates": [
+            18.418,
+            -33.9036
+          ],
+          "price_zar": 250,
+          "time_available": "11:00 - 22:00",
+          "image_url": "https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.5,
+          "transport_options": "Uber/Bolt to V&A Waterfront.",
+          "halal_notes": "Multiple vendors have excellent seafood or vegetarian dishes. 'Conscious Carnivores' offers fully halal grilled meats."
+        },
+        {
+          "id": "cpt003",
+          "name": "Explore the Waterfront & Play Cave Golf",
+          "category": "Fun/Leisure",
+          "description": "Walk off lunch by exploring the V&A Waterfront. Browse the unique local design stalls at The Watershed market. Then, challenge each other to a round of Cave Golf, a quirky 18-hole mini-golf course set inside a man-made cave. It's surprisingly fun and a bit different from the usual attractions.",
+          "address": "V&A Waterfront, below the Scratch Patch",
+          "location_string_for_grab": "Cave Golf V&A Waterfront",
+          "coordinates": [
+            18.4182,
+            -33.9075
+          ],
+          "price_zar": 40,
+          "time_available": "09:00 - 16:30",
+          "image_url": "https://images.pexels.com/photos/161401/children-play-let-s-play-in-the-sand-sand-castle-161401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.3,
+          "transport_options": "Walking distance from Time Out Market.",
+          "halal_notes": "Prayer room (Salaah Khana) is available in the main Victoria Wharf Shopping Centre for your convenience. [37]"
+        },
+        {
+          "id": "cpt053",
+          "name": "Board Game Fun at Fanaticus",
+          "category": "Nerdy/Chill",
+          "description": "For a chill late afternoon, head to Fanaticus Games. It's a fantastic board game store where you can browse a huge collection of games, from popular titles to indie gems. A great spot for anyone with a nerdy interest to unwind.",
+          "address": "Stadium on Main, Main Road, Claremont",
+          "location_string_for_grab": "Fanaticus Games Claremont",
+          "coordinates": [
+            18.463,
+            -33.98
+          ],
+          "price_zar": 0,
+          "time_available": "10:00 - 18:00",
+          "image_url": "https://images.pexels.com/photos/278918/pexels-photo-278918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.8,
+          "transport_options": "Uber/Bolt from V&A Waterfront (approx. 20 mins).",
+          "halal_notes": "A relaxed, alcohol-free environment focused on gaming."
+        },
+        {
+          "id": "cpt005",
+          "name": "Dinner at a Halal Gem",
+          "category": "Food",
+          "description": "Claremont and the surrounding Southern Suburbs are hubs for excellent halal food. For dinner, indulge at a top-rated spot like The Butcher's Wife for amazing steaks and grills, or Izzy Burger for some of the best burgers in the city. A delicious end to a varied first day.",
+          "address": "15 Belgravia Road, Athlone",
+          "location_string_for_grab": "The Butcher's Wife Cape Town",
+          "coordinates": [
+            18.5,
+            -33.957
+          ],
+          "price_zar": 400,
+          "time_available": "12:00 - 22:00",
+          "image_url": "https://images.pexels.com/photos/1234535/pexels-photo-1234535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.7,
+          "transport_options": "Short Uber/Bolt ride from Claremont.",
+          "halal_notes": "Both The Butcher's Wife and Izzy Burger are fully halal-certified and highly recommended by locals. [2]"
+        }
+      ]
+    },
+    {
+      "routeName": "Arrival, Colourful Culture & Creative Vibes",
+      "activities": [
+        {
+          "id": "cpt001b",
+          "name": "Arrive in Cape Town & Transfer to Hotel",
+          "category": "Arrival/Logistics",
+          "description": "Welcome! Arrive at CPT Airport and transfer to your hotel. After checking in, this route dives straight into the cultural and creative heart of the city.",
+          "address": "Cape Town International Airport (CPT) to City Hotel",
+          "location_string_for_grab": "Your Hotel in Cape Town City Centre",
+          "coordinates": [
+            18.4241,
+            -33.9249
+          ],
+          "price_zar": 300,
+          "time_available": "Flexible based on arrival",
+          "image_url": "https://images.pexels.com/photos/3999943/pexels-photo-3999943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": null,
+          "transport_options": "Uber, Bolt, Airport Shuttle.",
+          "halal_notes": "Prayer facility is available at CPT Airport."
+        },
+        {
+          "id": "cpt006",
+          "name": "Authentic Cape Malay Lunch in Bo-Kaap",
+          "category": "Food/Culture",
+          "description": "Head to the historic Bo-Kaap, the heart of Cape Town's Muslim community. Enjoy an authentic Cape Malay lunch at Biesmiellah or the home-style cooking of Faeeza's Home Kitchen. The flavours here are unique to Cape Town - a delicious blend of sweet, savoury, and aromatic spices.",
+          "address": "Wale Street, Bo-Kaap, Cape Town",
+          "location_string_for_grab": "Biesmiellah Restaurant, Bo-Kaap",
+          "coordinates": [
+            18.415,
+            -33.92
+          ],
+          "price_zar": 200,
+          "time_available": "Lunchtime",
+          "image_url": "https://images.pexels.com/photos/4049870/pexels-photo-4049870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.4,
+          "transport_options": "Uber/Bolt from city hotel.",
+          "halal_notes": "Nearly all eateries in Bo-Kaap are halal. You can visit the Auwal Mosque, the oldest in South Africa, just a few steps away. [36]"
+        },
+        {
+          "id": "cpt007",
+          "name": "Explore Bo-Kaap & Find a Great Coffee",
+          "category": "Culture/Chill",
+          "description": "After lunch, wander through the vibrant, colourful streets of Bo-Kaap. From there, take a short walk to find one of Cape Town's top coffee spots. Your friend recommended Origin Coffee Roasting - it's a short Uber ride away and considered one of the pioneers of specialty coffee in the city.",
+          "address": "28 Hudson St, De Waterkant",
+          "location_string_for_grab": "Origin Coffee Roasting Cape Town",
+          "coordinates": [
+            18.42,
+            -33.915
+          ],
+          "price_zar": 50,
+          "time_available": "Closes at 16:00",
+          "image_url": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.6,
+          "transport_options": "Walk from Bo-Kaap or short Uber.",
+          "halal_notes": null
+        },
+        {
+          "id": "cpt008",
+          "name": "Creative Fun at Clay Cafe in the City",
+          "category": "Fun/Activity",
+          "description": "In the afternoon, get your creative juices flowing at Clay Cafe on Bree Street. Choose a ceramic piece and spend a couple of hours painting your own masterpiece. It's a super relaxing and fun activity, and you get a unique souvenir (collect it a few days later after firing).",
+          "address": "199 Bree Street, Cape Town City Centre",
+          "location_string_for_grab": "Clay Cafe, Bree Street",
+          "coordinates": [
+            18.415,
+            -33.921
+          ],
+          "price_zar": 250,
+          "time_available": "10:00 - 17:00 (Booking recommended)",
+          "image_url": "https://images.pexels.com/photos/4505459/pexels-photo-4505459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.6,
+          "transport_options": "Short Uber ride or a longer walk.",
+          "halal_notes": "They serve food and drinks, but with many halal options nearby, you can focus on the painting."
+        },
+        {
+          "id": "cpt054",
+          "name": "Sunset Views from Signal Hill",
+          "category": "Awe/Scenic",
+          "description": "As evening approaches, take an Uber up to Signal Hill to watch your first Cape Town sunset. Find a spot and watch as the sun dips into the Atlantic Ocean, painting the sky with colour and lighting up the city below. It's a classic Cape Town experience for a reason.",
+          "address": "Signal Hill Road, Cape Town",
+          "location_string_for_grab": "Signal Hill Viewpoint",
+          "coordinates": [
+            18.4028,
+            -33.9178
+          ],
+          "price_zar": 0,
+          "time_available": "Best at sunset",
+          "image_url": "https://images.pexels.com/photos/1660995/pexels-photo-1660995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.7,
+          "transport_options": "Uber/Bolt is easiest. It can be busy, so arrange your ride back.",
+          "halal_notes": "A beautiful, tranquil spot for evening prayers if you bring a mat."
+        },
+        {
+          "id": "cpt009",
+          "name": "Dinner on Bree Street",
+          "category": "Food",
+          "description": "After sunset, head back down to the vibrant Bree Street for dinner. This street is a foodie paradise. For a great halal option, check out 'The Butcher's Grill' or 'Nouveau Coffee & Grill' for delicious steaks and contemporary dishes.",
+          "address": "101 Bree Street, Cape Town",
+          "location_string_for_grab": "Nouveau Coffee & Grill",
+          "coordinates": [
+            18.417,
+            -33.92
+          ],
+          "price_zar": 500,
+          "time_available": "Evening",
+          "image_url": "https://images.pexels.com/photos/1484516/pexels-photo-1484516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.5,
+          "transport_options": "Uber/Bolt from Signal Hill.",
+          "halal_notes": "Both 'The Butcher's Grill' and 'Nouveau' are fully halal-certified."
+        }
+      ]
+    }
+  ],
+  "Day 2": [
+    {
+      "routeName": "Iconic Mountain & Lush Gardens",
+      "activities": [
+        {
+          "id": "cpt010",
+          "name": "Table Mountain Cableway",
+          "category": "Awe/Scenic",
+          "description": "Start early (be there by 8:00 AM to beat the crowds) and take the rotating cable car to the top of Table Mountain, one of the New7Wonders of Nature. The 5-minute ride offers incredible 360° views. At the summit, walk the easy trails and enjoy breathtaking panoramas.",
+          "address": "Tafelberg Road, Gardens, Cape Town",
+          "location_string_for_grab": "Table Mountain Aerial Cableway",
+          "coordinates": [
+            18.4036,
+            -33.9475
+          ],
+          "price_zar": 430,
+          "time_available": "08:00 - 18:00 (Check weather first)",
+          "image_url": "https://images.pexels.com/photos/1317233/pexels-photo-1317233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.8,
+          "transport_options": "Uber/Bolt or City Sightseeing Bus.",
+          "halal_notes": "The cafe at the top offers snacks. A quiet spot on the summit provides a serene place for prayer with an unparalleled view."
+        },
+        {
+          "id": "cpt011",
+          "name": "Kirstenbosch Botanical Gardens",
+          "category": "Nature/Chill",
+          "description": "After the mountain, head to Kirstenbosch National Botanical Garden. Spend the afternoon strolling through indigenous flora, walking the Centenary Tree Canopy Walkway (the 'Boomslang'), and enjoying the peaceful atmosphere on the eastern slopes of Table Mountain.",
+          "address": "Rhodes Drive, Newlands, Cape Town",
+          "location_string_for_grab": "Kirstenbosch National Botanical Garden",
+          "coordinates": [
+            18.4322,
+            -33.9878
+          ],
+          "price_zar": 220,
+          "time_available": "08:00 - 19:00 (Summer)",
+          "image_url": "https://images.pexels.com/photos/17991639/pexels-photo-17991639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.9,
+          "transport_options": "Uber/Bolt from Table Mountain (approx. 20 mins).",
+          "halal_notes": "The on-site restaurants offer vegetarian/seafood options. A small prayer room is available near the main entrance; ask at the visitor center."
+        },
+        {
+          "id": "cpt055",
+          "name": "Dinner at Andalousse Moroccan Cuisine",
+          "category": "Food/Culture",
+          "description": "For a memorable dinner, experience the authentic flavours of Morocco at Andalousse in Woodstock. This fully halal restaurant is known for its incredible tagines, couscous, and warm, traditional decor. It's a culinary trip within a trip.",
+          "address": "358 Victoria Rd, Woodstock, Cape Town",
+          "location_string_for_grab": "Andalousse Moroccan Cuisine",
+          "coordinates": [
+            18.459,
+            -33.931
+          ],
+          "price_zar": 450,
+          "time_available": "12:00 - 22:00",
+          "image_url": "https://images.pexels.com/photos/604969/pexels-photo-604969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.7,
+          "transport_options": "Uber/Bolt from Kirstenbosch (approx. 15 mins).",
+          "halal_notes": "Fully halal-certified, offering an authentic and highly-rated dining experience. [2]"
+        }
+      ]
+    },
+    {
+      "routeName": "Active Hike & Coastal Cruiser",
+      "activities": [
+        {
+          "id": "cpt013",
+          "name": "Sunrise Hike up Lion's Head",
+          "category": "Fun/Adventure",
+          "description": "An early start for a sunrise hike up Lion's Head is an unforgettable experience. It's a moderate 60-90 minute climb with some scrambling (ladders and chains, with an easier alternative route). The 360° views as the sun rises are absolutely worth the effort.",
+          "address": "Signal Hill Road, Cape Town",
+          "location_string_for_grab": "Lion's Head Trail Start",
+          "coordinates": [
+            18.39,
+            -33.935
+          ],
+          "price_zar": 0,
+          "time_available": "Best at sunrise (start in darkness)",
+          "image_url": "https://images.pexels.com/photos/1660995/pexels-photo-1660995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.9,
+          "transport_options": "Uber/Bolt to the base.",
+          "halal_notes": "Bring water and snacks for a post-hike reward."
+        },
+        {
+          "id": "cpt014",
+          "name": "Post-Hike Breakfast & Sea Point Promenade",
+          "category": "Food/Chill",
+          "description": "After your hike, head to Sea Point for a well-deserved breakfast. Then, take a leisurely stroll or rent an Up Cycles bike to explore the Sea Point Promenade, a beautiful walkway along the Atlantic with public art and fresh sea air.",
+          "address": "Sea Point Promenade, Cape Town",
+          "location_string_for_grab": "Up Cycles Sea Point Pavilion",
+          "coordinates": [
+            18.38,
+            -33.91
+          ],
+          "price_zar": 200,
+          "time_available": "Morning",
+          "image_url": "https://images.pexels.com/photos/9978713/pexels-photo-9978713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.7,
+          "transport_options": "Uber/Bolt from Lion's Head.",
+          "halal_notes": "Many cafes have vegetarian options. The famous Nuri Sushi is a fully halal spot perfect for lunch in Sea Point."
+        },
+        {
+          "id": "cpt056",
+          "name": "Paragliding from Signal Hill",
+          "category": "Awe/Adventure",
+          "description": "For an afternoon thrill, go tandem paragliding from Signal Hill. You'll be strapped to an experienced pilot as you soar over Sea Point, enjoying bird's-eye views of the coastline and city before landing gently on the promenade. It's pure, quiet exhilaration.",
+          "address": "Signal Hill, Cape Town",
+          "location_string_for_grab": "Cape Town Tandem Paragliding",
+          "coordinates": [
+            18.4028,
+            -33.9178
+          ],
+          "price_zar": 1800,
+          "time_available": "Afternoon (weather dependent, book ahead)",
+          "image_url": "https://images.pexels.com/photos/1252399/pexels-photo-1252399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.9,
+          "transport_options": "Most companies provide transport to the launch site.",
+          "halal_notes": null
+        },
+        {
+          "id": "cpt015",
+          "name": "Mojo Market & Moro Gelato",
+          "category": "Food/Leisure",
+          "description": "After landing, celebrate at the Mojo Market, a bustling indoor food market with over 30 stalls and live music. Grab a late lunch or snack. Afterwards, treat yourselves to the best ice cream in Cape Town at Moro Gelato just down the road.",
+          "address": "30 Regent Road, Sea Point, Cape Town",
+          "location_string_for_grab": "Mojo Market, Sea Point",
+          "coordinates": [
+            18.388,
+            -33.916
+          ],
+          "price_zar": 250,
+          "time_available": "11:00 - 22:00",
+          "image_url": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.4,
+          "transport_options": "Walking distance from the landing zone.",
+          "halal_notes": "Diverse vendors offer plenty of seafood/vegetarian options to choose from. [46]"
+        }
+      ]
+    },
+    {
+      "routeName": "City Culture & Quirky Finds",
+      "activities": [
+        {
+          "id": "cpt057",
+          "name": "District Six Museum & Coffee",
+          "category": "Culture/History",
+          "description": "Start your day with a powerful history lesson at the District Six Museum, which tells the story of the forced removal of residents from this vibrant inner-city area during Apartheid. It's a deeply moving and important experience. Afterwards, decompress with a coffee at a nearby artisanal cafe like Truth Coffee, known for its steampunk decor and world-class coffee.",
+          "address": "25A Buitenkant Street, Cape Town",
+          "location_string_for_grab": "District Six Museum",
+          "coordinates": [
+            18.425,
+            -33.928
+          ],
+          "price_zar": 50,
+          "time_available": "09:00 - 16:00 (Mon-Sat)",
+          "image_url": "https://images.pexels.com/photos/769155/pexels-photo-769155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.7,
+          "transport_options": "Uber/Bolt or walk from CBD.",
+          "halal_notes": null
+        },
+        {
+          "id": "cpt058",
+          "name": "Cat Heaven at Cat Café",
+          "category": "Chill/Interesting",
+          "description": "For a dose of cuteness, spend some time at Cat Heaven, Cape Town's cat café. Pay a small entrance fee to hang out with rescue cats in a cozy environment. It's a relaxing and heartwarming way to spend an hour, especially if you're animal lovers.",
+          "address": "35 Bright Street, Somerset West",
+          "location_string_for_grab": "Cat Heaven Cat Cafe",
+          "coordinates": [
+            18.847,
+            -34.082
+          ],
+          "price_zar": 40,
+          "time_available": "09:00 - 16:00 (Booking recommended)",
+          "image_url": "https://images.pexels.com/photos/1056251/pexels-photo-1056251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.8,
+          "transport_options": "Uber/Bolt (approx. 40 mins from CBD).",
+          "halal_notes": "A wholesome, fun activity. They serve light snacks and drinks."
+        },
+        {
+          "id": "cpt059",
+          "name": "Iziko Planetarium Show",
+          "category": "Awe/Nerdy",
+          "description": "Head back to the city and journey through the cosmos at the Iziko Planetarium. The state-of-the-art digital dome offers immersive shows about astronomy and the universe. It’s a fascinating and awe-inspiring experience, perfect for a chill afternoon.",
+          "address": "25 Queen Victoria Street, Cape Town",
+          "location_string_for_grab": "Iziko Planetarium Cape Town",
+          "coordinates": [
+            18.416,
+            -33.928
+          ],
+          "price_zar": 80,
+          "time_available": "Check website for showtimes",
+          "image_url": "https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.6,
+          "transport_options": "Located in the Company's Garden.",
+          "halal_notes": null
+        },
+        {
+          "id": "cpt042",
+          "name": "Movie Night at The Labia Theatre",
+          "category": "Culture/Chill",
+          "description": "For the evening, experience Cape Town's oldest independent cinema, The Labia Theatre. It has a wonderful, old-school charm and shows a mix of indie, foreign, and classic films. You can even take your drink into the cinema. It’s a unique and cozy movie experience.",
+          "address": "68 Orange Street, Gardens, Cape Town",
+          "location_string_for_grab": "Labia Theatre",
+          "coordinates": [
+            18.414,
+            -33.931
+          ],
+          "price_zar": 80,
+          "time_available": "Evening showtimes vary",
+          "image_url": "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.7,
+          "transport_options": "Short Uber/Bolt ride.",
+          "halal_notes": "Have dinner before or after on nearby Kloof Street."
+        }
+      ]
+    }
+  ],
+  "Day 3": [
+    {
+      "routeName": "Full Cape Peninsula Road Trip",
+      "activities": [
+        {
+          "id": "cpt016",
+          "name": "Drive Chapman's Peak & Hout Bay",
+          "category": "Awe/Scenic",
+          "description": "Hire a car or driver for an epic road trip. Start by driving the breathtaking Chapman's Peak Drive, a winding road carved into the cliffside with incredible ocean views. Stop in Hout Bay to see the harbour and maybe take a quick boat trip to see the seal colony on Duiker Island.",
+          "address": "Chapman's Peak Drive, between Hout Bay and Noordhoek",
+          "location_string_for_grab": "Chapman's Peak Drive Viewpoint",
+          "coordinates": [
+            18.35,
+            -34.08
+          ],
+          "price_zar": 61,
+          "time_available": "Daylight hours (check if open)",
+          "image_url": "https://images.pexels.com/photos/1000653/pexels-photo-1000653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 5,
+          "transport_options": "Self-drive or private tour is best.",
+          "halal_notes": null
+        },
+        {
+          "id": "cpt017",
+          "name": "Cape Point & Cape of Good Hope",
+          "category": "Nature/Awe",
+          "description": "Continue to the Cape Point Nature Reserve. Take the Flying Dutchman Funicular up to the old lighthouse for dramatic cliff views. Then, visit the Cape of Good Hope, the most south-western point of Africa. Watch out for ostriches and baboons!",
+          "address": "Cape Point Nature Reserve, Cape Peninsula",
+          "location_string_for_grab": "Cape Point Lighthouse",
+          "coordinates": [
+            18.497,
+            -34.357
+          ],
+          "price_zar": 400,
+          "time_available": "07:00 - 17:00",
+          "image_url": "https://images.pexels.com/photos/417277/pexels-photo-417277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.8,
+          "transport_options": "Self-drive within the reserve.",
+          "halal_notes": "Pack a picnic or check the Two Oceans Restaurant for seafood/vegetarian options."
+        },
+        {
+          "id": "cpt018",
+          "name": "Boulders Beach Penguin Colony",
+          "category": "Fun/Wildlife",
+          "description": "The absolute highlight for many. Visit Boulders Beach to see the charming colony of wild African Penguins. A boardwalk takes you right next to the beach where they nest, waddle, and swim. It's an amazing and fun wildlife encounter.",
+          "address": "Kleintuin Road, Simon's Town",
+          "location_string_for_grab": "Boulders Beach Penguin Colony",
+          "coordinates": [
+            18.451,
+            -34.197
+          ],
+          "price_zar": 190,
+          "time_available": "08:00 - 17:00",
+          "image_url": "https://images.pexels.com/photos/54394/pexels-photo-54394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.7,
+          "transport_options": "Drive from Cape Point (approx. 20 mins).",
+          "halal_notes": "There's a mosque in Simon's Town (Masjid Boorhanu's-Deen) for prayer."
+        },
+        {
+          "id": "cpt019",
+          "name": "Kalk Bay & Return Drive",
+          "category": "Chill/Culture",
+          "description": "On the way back, stop in the bohemian fishing village of Kalk Bay. Browse the quirky shops and art galleries. For an early dinner, enjoy fresh fish and chips at the famous Kalky's right on the harbour.",
+          "address": "Kalk Bay Harbour, Main Road, Kalk Bay",
+          "location_string_for_grab": "Kalky's, Kalk Bay",
+          "coordinates": [
+            18.45,
+            -34.128
+          ],
+          "price_zar": 150,
+          "time_available": "Shops close around 17:00",
+          "image_url": "https://images.pexels.com/photos/1826027/pexels-photo-1826027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.5,
+          "transport_options": "Drive along the False Bay coast.",
+          "halal_notes": "Kalky's is a classic seafood spot. Confirm with them what oil they use for frying."
+        }
+      ]
+    },
+    {
+      "routeName": "Coastal Fun & Penguin Paddle",
+      "activities": [
+        {
+          "id": "cpt020",
+          "name": "Muizenberg Beach & Surf Lesson",
+          "category": "Fun/Activity",
+          "description": "Head to the False Bay coast and start your day at Muizenberg, famous for its colourful beach huts and gentle waves. It's the perfect place to take a 90-minute beginner's surf lesson together. Super fun, and great for a laugh.",
+          "address": "Surfers Corner, Beach Road, Muizenberg",
+          "location_string_for_grab": "Gary's Surf School, Muizenberg",
+          "coordinates": [
+            18.474,
+            -34.108
+          ],
+          "price_zar": 400,
+          "time_available": "Morning (lessons at 9:00, 11:00)",
+          "image_url": "https://images.pexels.com/photos/1567083/pexels-photo-1567083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.8,
+          "transport_options": "Uber/Bolt or train to Muizenberg.",
+          "halal_notes": "The water here is warmer than the Atlantic side!"
+        },
+        {
+          "id": "cpt060",
+          "name": "Scratch Patch & Mineral World",
+          "category": "Fun/Interesting",
+          "description": "After surfing, head to Simon's Town and visit the Scratch Patch. It's a simple but surprisingly fun activity where you can sift through millions of polished gemstones and pick your favourites to take home. A cool, tangible memory of your trip.",
+          "address": "Dido Valley Road, Simon's Town",
+          "location_string_for_grab": "Scratch Patch Simon's Town",
+          "coordinates": [
+            18.44,
+            -34.18
+          ],
+          "price_zar": 30,
+          "time_available": "09:00 - 16:30",
+          "image_url": "https://images.pexels.com/photos/1118125/pexels-photo-1118125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.4,
+          "transport_options": "Drive from Muizenberg.",
+          "halal_notes": null
+        },
+        {
+          "id": "cpt022",
+          "name": "Sea Kayaking with Penguins",
+          "category": "Awe/Adventure",
+          "description": "In the afternoon, experience the penguins from a different perspective. A guided sea kayaking trip from Simon's Town harbour takes you paddling towards Boulders Beach, offering a unique water-level view of the colony. You might also see seals and other marine life.",
+          "address": "Wharf Street, Simon's Town",
+          "location_string_for_grab": "Kayak Cape Town, Simon's Town",
+          "coordinates": [
+            18.432,
+            -34.193
+          ],
+          "price_zar": 450,
+          "time_available": "Afternoon tours (booking essential)",
+          "image_url": "https://images.pexels.com/photos/731195/pexels-photo-731195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.9,
+          "transport_options": "Located at Simon's Town harbour.",
+          "halal_notes": "A respectful and amazing way to see the wildlife."
+        },
+        {
+          "id": "cpt061",
+          "name": "Dinner at The Victorian Goose",
+          "category": "Food/Chill",
+          "description": "End your coastal day with dinner in Simon's Town. The Victorian Goose is a highly-rated, fully halal restaurant offering delicious grills, seafood, and cozy ambiance in a historic building. A perfect, relaxed end to the day.",
+          "address": "156 St George's St, Simon's Town",
+          "location_string_for_grab": "The Victorian Goose",
+          "coordinates": [
+            18.43,
+            -34.19
+          ],
+          "price_zar": 400,
+          "time_available": "Dinner",
+          "image_url": "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.8,
+          "transport_options": "In Simon's Town.",
+          "halal_notes": "Fully halal-certified, offering peace of mind and great food. [2]"
+        }
+      ]
+    }
+  ],
+  "Day 4": [
+    {
+      "routeName": "Winelands Gardens & Gourmet Day",
+      "activities": [
+        {
+          "id": "cpt023",
+          "name": "Babylonstoren Garden Exploration",
+          "category": "Awe/Nature",
+          "description": "Take a day trip to the Winelands (approx. 1-hour drive). Start at Babylonstoren. Spend the morning wandering its magnificent, themed gardens. Explore the fruit orchards, vegetable patches, prickly pear maze, and succulent house. It is a world-class experience.",
+          "address": "Klapmuts Simondium Road, Simondium",
+          "location_string_for_grab": "Babylonstoren",
+          "coordinates": [
+            18.925,
+            -33.827
+          ],
+          "price_zar": 200,
+          "time_available": "09:00 - 17:00",
+          "image_url": "https://images.pexels.com/photos/145685/pexels-photo-145685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.9,
+          "transport_options": "Self-drive or private tour.",
+          "halal_notes": "This route focuses on the beauty and food of the Winelands, not alcohol."
+        },
+        {
+          "id": "cpt024",
+          "name": "Lunch at The Greenhouse or Babel",
+          "category": "Food",
+          "description": "For lunch, dine at Babylonstoren. The Greenhouse is casual, set within the gardens. For a more formal, farm-to-fork fine dining experience, book a table at Babel (reservations are essential weeks in advance). Both offer incredible, fresh, seasonal food.",
+          "address": "Babylonstoren, Klapmuts Simondium Road, Simondium",
+          "location_string_for_grab": "Babel Restaurant, Babylonstoren",
+          "coordinates": [
+            18.926,
+            -33.828
+          ],
+          "price_zar": 500,
+          "time_available": "Lunchtime (booking required for Babel)",
+          "image_url": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.8,
+          "transport_options": "On-site at Babylonstoren.",
+          "halal_notes": "Many vegetarian and seafood options. Inform them of your dietary needs when booking."
+        },
+        {
+          "id": "cpt025",
+          "name": "Explore Franschhoek & Chocolate Tasting",
+          "category": "Chill/Culture",
+          "description": "In the afternoon, drive to the picturesque town of Franschhoek. Stroll down the main street, browse the art galleries, and see the Huguenot Monument. Instead of wine, indulge in a chocolate tasting at Huguenot Fine Chocolates or a non-alcoholic 'gin' tasting at a distillery.",
+          "address": "Main Road, Franschhoek",
+          "location_string_for_grab": "Huguenot Fine Chocolates, Franschhoek",
+          "coordinates": [
+            19.12,
+            -33.91
+          ],
+          "price_zar": 70,
+          "time_available": "09:00 - 17:00",
+          "image_url": "https://images.pexels.com/photos/4109943/pexels-photo-4109943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.6,
+          "transport_options": "Drive from Babylonstoren (approx. 20 mins).",
+          "halal_notes": "A fun alternative to wine tasting. The town has a mosque (Franschhoek Masjid) for prayers."
+        },
+        {
+          "id": "cpt062",
+          "name": "Franschhoek Motor Museum",
+          "category": "Interesting/Nerdy",
+          "description": "For something completely different in the Winelands, visit the Franschhoek Motor Museum. It showcases over 100 years of automotive history with a magnificent collection of vehicles. It's an impressive display for anyone interested in cars and engineering. Booking is essential.",
+          "address": "L'Ormarins Estate, R45, Franschhoek",
+          "location_string_for_grab": "Franschhoek Motor Museum",
+          "coordinates": [
+            18.99,
+            -33.85
+          ],
+          "price_zar": 80,
+          "time_available": "10:00 - 17:00 (Booking required)",
+          "image_url": "https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.8,
+          "transport_options": "Short drive from Franschhoek town.",
+          "halal_notes": null
+        }
+      ]
+    },
+    {
+      "routeName": "West Coast Nature & Iconic Views",
+      "activities": [
+        {
+          "id": "cpt027",
+          "name": "West Coast National Park",
+          "category": "Nature/Awe",
+          "description": "Drive north up the R27 to the West Coast National Park (approx. 90-min drive). This park is a coastal wetland sanctuary, famous for its turquoise Langebaan Lagoon and incredible birdlife (including flamingos). In spring (Aug-Sep), the fields erupt in a carpet of wildflowers.",
+          "address": "West Coast National Park, R27",
+          "location_string_for_grab": "West Coast National Park",
+          "coordinates": [
+            18.15,
+            -33.12
+          ],
+          "price_zar": 110,
+          "time_available": "07:00 - 19:00 (Summer)",
+          "image_url": "https://images.pexels.com/photos/1105017/pexels-photo-1105017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.8,
+          "transport_options": "Self-drive is essential.",
+          "halal_notes": null
+        },
+        {
+          "id": "cpt028",
+          "name": "Swim & Relax at Kraalbaai",
+          "category": "Beach/Chill",
+          "description": "Inside the park, drive to Kraalbaai beach. The lagoon water here is calm, shallow, and much warmer than the Atlantic, making it the best swimming spot in the region. Relax on the pristine white sand or go for a dip in the stunningly clear turquoise water.",
+          "address": "Kraalbaai, West Coast National Park",
+          "location_string_for_grab": "Kraalbaai, West Coast National Park",
+          "coordinates": [
+            18.09,
+            -33.19
+          ],
+          "price_zar": 0,
+          "time_available": "Daylight hours",
+          "image_url": "https://images.pexels.com/photos/1672323/pexels-photo-1672323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.9,
+          "transport_options": "Drive within the park.",
+          "halal_notes": "Perfect spot for a picnic. Bring your own food and water."
+        },
+        {
+          "id": "cpt063",
+          "name": "Atlantis Dunes Quad Biking",
+          "category": "Fun/Adventure",
+          "description": "On the way back from the West Coast, stop at the Atlantis Dunes for an adrenaline-pumping quad biking experience. Ride over vast white sand dunes, some towering up to 50 meters high. It's a thrilling adventure in a unique 'desert' landscape.",
+          "address": "Atlantis Dunes, Dassenberg Drive, Atlantis",
+          "location_string_for_grab": "Atlantis Dunes",
+          "coordinates": [
+            18.47,
+            -33.58
+          ],
+          "price_zar": 900,
+          "time_available": "Afternoon (Booking essential)",
+          "image_url": "https://images.pexels.com/photos/257777/pexels-photo-257777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.7,
+          "transport_options": "Located off the R27 on the way back to Cape Town.",
+          "halal_notes": null
+        },
+        {
+          "id": "cpt030",
+          "name": "Sunset View & Dinner in Bloubergstrand",
+          "category": "Awe/Scenic",
+          "description": "End your day at Bloubergstrand for the iconic postcard view of Table Mountain. Watch the sunset and then have dinner at a beachfront restaurant like Ons Huisie, a heritage cottage serving local cuisine, enjoying the city lights across the bay.",
+          "address": "Bloubergstrand Beach, Cape Town",
+          "location_string_for_grab": "Ons Huisie, Bloubergstrand",
+          "coordinates": [
+            18.459,
+            -33.805
+          ],
+          "price_zar": 400,
+          "time_available": "Best at sunset",
+          "image_url": "https://images.pexels.com/photos/33041/antelope-canyon-lower-canyon-arizona.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.9,
+          "transport_options": "Located on the way back to Cape Town.",
+          "halal_notes": "Ons Huisie has great seafood and vegetarian dishes; confirm cooking methods with them."
+        }
+      ]
+    }
+  ],
+  "Day 5": [
+    {
+      "routeName": "Art, Design & Gaming",
+      "activities": [
+        {
+          "id": "cpt031",
+          "name": "Street Art & Design in Woodstock",
+          "category": "Culture/Interesting",
+          "description": "Spend the morning exploring the trendy suburb of Woodstock. Start at the Old Biscuit Mill to see the designer shops, then take a guided walking tour to discover the incredible, large-scale street art murals that have revitalized the area. It's a vibrant, creative hub.",
+          "address": "375 Albert Road, Woodstock, Cape Town",
+          "location_string_for_grab": "The Old Biscuit Mill",
+          "coordinates": [
+            18.458,
+            -33.928
+          ],
+          "price_zar": 0,
+          "time_available": "Morning (shops open around 10:00)",
+          "image_url": "https://images.pexels.com/photos/1722183/pexels-photo-1722183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.4,
+          "transport_options": "Uber/Bolt from city (approx. 10 mins).",
+          "halal_notes": "Woodstock has a large Muslim community; many halal food options are nearby for lunch."
+        },
+        {
+          "id": "cpt032",
+          "name": "Lunch at District Café",
+          "category": "Food",
+          "description": "For lunch, stay in Woodstock and try District Café, a family-run halal restaurant known for its great food and welcoming atmosphere. It’s a perfect spot to refuel after exploring the street art.",
+          "address": "115 Roodebloem Road, Woodstock",
+          "location_string_for_grab": "District Cafe, Woodstock",
+          "coordinates": [
+            18.455,
+            -33.929
+          ],
+          "price_zar": 250,
+          "time_available": "Lunchtime",
+          "image_url": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.6,
+          "transport_options": "Short Uber ride from Old Biscuit Mill.",
+          "halal_notes": "District Café is fully halal and a local favorite. [36]"
+        },
+        {
+          "id": "cpt033",
+          "name": "Esports Fun at ATK Arena",
+          "category": "Fun/Nerdy",
+          "description": "For a change of pace, spend the afternoon at ATK Arena in Claremont, a state-of-the-art gaming and esports venue. Whether you're into PC gaming, consoles, or racing simulators, you can rent a station by the hour and have some competitive fun.",
+          "address": "77 Main Road, Claremont, Cape Town",
+          "location_string_for_grab": "ATK Arena, Claremont",
+          "coordinates": [
+            18.465,
+            -33.98
+          ],
+          "price_zar": 100,
+          "time_available": "10:00 - 22:00",
+          "image_url": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.7,
+          "transport_options": "Uber/Bolt from Woodstock (approx. 15 mins).",
+          "halal_notes": "A different kind of fun, great for a hot or rainy afternoon."
+        },
+        {
+          "id": "cpt034",
+          "name": "Evening at Barcadia Arcade Bar",
+          "category": "Fun/Nerdy",
+          "description": "In the evening, head to Barcadia on Hout Street. It's a retro arcade bar with classic games like Pac-Man, Street Fighter, and pinball machines. All games are free to play with a drink purchase. It's a fun, nostalgic night out.",
+          "address": "62 Hout Street, Cape Town City Centre",
+          "location_string_for_grab": "Barcadia Cape Town",
+          "coordinates": [
+            18.419,
+            -33.922
+          ],
+          "price_zar": 50,
+          "time_available": "18:00 - 02:00 (Tue-Sat)",
+          "image_url": "https://images.pexels.com/photos/1174732/pexels-photo-1174732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.5,
+          "transport_options": "Uber/Bolt from Claremont.",
+          "halal_notes": "This is a bar (over 21s). They serve non-alcoholic drinks and pizza. Go for the games and atmosphere. [12]"
+        }
+      ]
+    },
+    {
+      "routeName": "Adrenaline & Entertainment Complex",
+      "activities": [
+        {
+          "id": "cpt035",
+          "name": "Cool Runnings Tobogganing",
+          "category": "Fun/Adventure",
+          "description": "Start the day with pure fun at Cool Runnings, Africa's only toboggan track. Ride a bobsled down a 1.25 km stainless steel track, controlling your own speed. It's a blast for adults and guaranteed to have you both laughing.",
+          "address": "Off Carl Cronje Drive, Tygervalley",
+          "location_string_for_grab": "Cool Runnings Toboggan Family Park",
+          "coordinates": [
+            18.63,
+            -33.88
+          ],
+          "price_zar": 90,
+          "time_available": "11:00 - 18:00 (Weekdays), 09:00 - 18:00 (Weekends)",
+          "image_url": "https://images.pexels.com/photos/163036/mario-kart-race-play-fun-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.6,
+          "transport_options": "Uber/Bolt (approx. 30 mins from city).",
+          "halal_notes": "The on-site cafe has simple food; check for halal status or plan to eat elsewhere. [6]"
+        },
+        {
+          "id": "cpt064",
+          "name": "Archery & Axe Throwing",
+          "category": "Fun/Activity",
+          "description": "While in the Northern Suburbs, try your hand at something new. Venues like 'Warrior's Archery' or 'Valkyrie' offer sessions in archery and even axe throwing. It's a unique skill to learn and a lot of fun under expert supervision.",
+          "address": "Durbanville area (various locations)",
+          "location_string_for_grab": "Warrior's Archery Durbanville",
+          "coordinates": [
+            18.65,
+            -33.83
+          ],
+          "price_zar": 200,
+          "time_available": "Booking is essential",
+          "image_url": "https://images.pexels.com/photos/671659/pexels-photo-671659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.7,
+          "transport_options": "Short Uber/Bolt ride from Cool Runnings.",
+          "halal_notes": null
+        },
+        {
+          "id": "cpt036",
+          "name": "GrandWest Entertainment Complex",
+          "category": "Fun/Leisure",
+          "description": "Spend the rest of the afternoon and evening at GrandWest. It's much more than a casino. Go ice skating at The Ice Station, play a round of laser tag, go bowling, and hit the arcade games at The Magic Company. There's enough here to keep you entertained for hours.",
+          "address": "1 Jakes Gerwel Drive, Goodwood",
+          "location_string_for_grab": "GrandWest Casino and Entertainment World",
+          "coordinates": [
+            18.54,
+            -33.92
+          ],
+          "price_zar": 300,
+          "time_available": "Late afternoon & evening",
+          "image_url": "https://images.pexels.com/photos/318820/pexels-photo-318820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.2,
+          "transport_options": "Uber/Bolt from Durbanville area.",
+          "halal_notes": "GrandWest has multiple certified halal restaurants in its food court, including a Nando's and steers, as well as a dedicated prayer facility. [8]"
+        }
+      ]
+    }
+  ],
+  "Day 6": [
+    {
+      "routeName": "Saturday Markets & Local Vibe",
+      "activities": [
+        {
+          "id": "cpt039",
+          "name": "Oranjezicht City Farm Market",
+          "category": "Food/Culture",
+          "description": "Start your Saturday at the Oranjezicht City Farm Market at Granger Bay. This is a fantastic farmers' market with fresh local produce, artisanal foods, and amazing breakfast and brunch options. The vibe is relaxed and scenic, right by the ocean.",
+          "address": "Granger Bay Boulevard, V&A Waterfront",
+          "location_string_for_grab": "Oranjezicht City Farm Market",
+          "coordinates": [
+            18.414,
+            -33.902
+          ],
+          "price_zar": 200,
+          "time_available": "08:15 - 14:00 (Saturdays)",
+          "image_url": "https://images.pexels.com/photos/2255869/pexels-photo-2255869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.8,
+          "transport_options": "Uber/Bolt to Granger Bay.",
+          "halal_notes": "Plenty of vegetarian, vegan, and fresh food options. Inquire with vendors about specific halal preparation. [9]"
+        },
+        {
+          "id": "cpt040",
+          "name": "Neighbourgoods Market at Old Biscuit Mill",
+          "category": "Food/Culture",
+          "description": "From one market to another! Head to the Neighbourgoods Market in Woodstock. This market is more of a bustling, trendy social hub with live music, designer goods, and an incredible array of street food stalls. It gets very busy, so be prepared for crowds.",
+          "address": "373 Albert Road, Woodstock, Cape Town",
+          "location_string_for_grab": "Neighbourgoods Market, Old Biscuit Mill",
+          "coordinates": [
+            18.458,
+            -33.928
+          ],
+          "price_zar": 250,
+          "time_available": "09:00 - 15:00 (Saturdays)",
+          "image_url": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.5,
+          "transport_options": "Uber/Bolt from the Waterfront.",
+          "halal_notes": "A great place to find unique halal or vegetarian street food. [11]"
+        },
+        {
+          "id": "cpt065",
+          "name": "Indoor Rock Climbing / Bouldering",
+          "category": "Fun/Adventure",
+          "description": "After the markets, challenge yourselves with some indoor rock climbing at CityROCK. They have extensive bouldering areas (no ropes) and high walls for roped climbing. It's a great workout and a fun way to do something active together, regardless of the weather.",
+          "address": "9 Milner Street, Paarden Eiland, Cape Town",
+          "location_string_for_grab": "CityROCK Cape Town",
+          "coordinates": [
+            18.468,
+            -33.908
+          ],
+          "price_zar": 200,
+          "time_available": "09:00 - 18:00 (Saturdays)",
+          "image_url": "https://images.pexels.com/photos/1994541/pexels-photo-1994541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.8,
+          "transport_options": "Uber/Bolt from Woodstock.",
+          "halal_notes": null
+        },
+        {
+          "id": "cpt066",
+          "name": "Dinner & Board Games at Sword and Board",
+          "category": "Food/Nerdy",
+          "description": "For a chill and nerdy evening, head to Sword and Board, a hobby shop in the vibrant suburb of Observatory. On Saturday evenings, they often host game nights. Grab a delicious (and fully halal) pizza from 'The White Rabbit' next door and settle in for an evening of board games.",
+          "address": "199 Lower Main Rd, Observatory, Cape Town",
+          "location_string_for_grab": "Sword and Board Cape Town",
+          "coordinates": [
+            18.472,
+            -33.939
+          ],
+          "price_zar": 200,
+          "time_available": "Evening",
+          "image_url": "https://images.pexels.com/photos/260024/pexels-photo-260024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.7,
+          "transport_options": "Uber/Bolt from CityROCK.",
+          "halal_notes": "The White Rabbit is a famous, fully halal eatery right next to the game shop, creating a perfect combo. [42]"
+        }
+      ]
+    },
+    {
+      "routeName": "Sunday Drive & Hout Bay Market",
+      "activities": [
+        {
+          "id": "cpt043",
+          "name": "Bay Harbour Market",
+          "category": "Food/Culture",
+          "description": "If it's a Sunday (or Fri/Sat), the Bay Harbour Market in Hout Bay is a must-visit. Housed in a revamped fish factory, it has a fantastic atmosphere with live music, crackling fires, and over 100 stalls selling crafts, fashion, and delicious food.",
+          "address": "31 Harbour Road, Hout Bay",
+          "location_string_for_grab": "Bay Harbour Market, Hout Bay",
+          "coordinates": [
+            18.347,
+            -34.047
+          ],
+          "price_zar": 200,
+          "time_available": "09:30 - 16:00 (Sundays)",
+          "image_url": "https://images.pexels.com/photos/278918/pexels-photo-278918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.6,
+          "transport_options": "Drive via the scenic coastal road (Victoria Road).",
+          "halal_notes": "A great place for brunch or lunch with many diverse food stalls."
+        },
+        {
+          "id": "cpt044",
+          "name": "World of Birds Wildlife Sanctuary",
+          "category": "Wildlife/Interesting",
+          "description": "Located nearby in Hout Bay is the World of Birds, the largest bird park in Africa. Walk through large aviaries with over 3,000 birds. The highlight is the Monkey Jungle, where you can interact with playful squirrel monkeys.",
+          "address": "Valley Road, Hout Bay, Cape Town",
+          "location_string_for_grab": "World of Birds, Hout Bay",
+          "coordinates": [
+            18.36,
+            -34.02
+          ],
+          "price_zar": 130,
+          "time_available": "09:00 - 17:00",
+          "image_url": "https://images.pexels.com/photos/1059905/pexels-photo-1059905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.4,
+          "transport_options": "Short drive from the market.",
+          "halal_notes": null
+        },
+        {
+          "id": "cpt067",
+          "name": "Galileo Open Air Cinema",
+          "category": "Fun/Chill",
+          "description": "If your visit is during the summer months (Nov-Apr), end your Sunday with a movie under the stars at The Galileo Open Air Cinema. They have various venues, but the one at Kirstenbosch Gardens is magical. Arrive early, grab food from the on-site market, and relax on the grass before the movie starts.",
+          "address": "Kirstenbosch Gardens, Newlands",
+          "location_string_for_grab": "Galileo Open Air Cinema Kirstenbosch",
+          "coordinates": [
+            18.432,
+            -33.988
+          ],
+          "price_zar": 140,
+          "time_available": "Evenings on select days (check schedule)",
+          "image_url": "https://images.pexels.com/photos/2007/star-people-night-sky.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.8,
+          "transport_options": "Drive from Hout Bay.",
+          "halal_notes": "The on-site vendors offer a variety of food, including halal-friendly options."
+        }
+      ]
+    }
+  ],
+  "Day 7": [
+    {
+      "routeName": "Last-Minute Fun & Farewell",
+      "activities": [
+        {
+          "id": "cpt047",
+          "name": "Indoor Go-Karting",
+          "category": "Fun/Adventure",
+          "description": "Spend your last morning with some high-speed fun at Century Karting, an indoor go-karting track. Race each other around the track for a final adrenaline rush. It's a great all-weather activity.",
+          "address": "Canal Walk, Century Boulevard, Century City",
+          "location_string_for_grab": "Century Karting, Canal Walk",
+          "coordinates": [
+            18.515,
+            -33.894
+          ],
+          "price_zar": 250,
+          "time_available": "10:00 onwards",
+          "image_url": "https://images.pexels.com/photos/163036/mario-kart-race-play-fun-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.5,
+          "transport_options": "Uber/Bolt to Century City.",
+          "halal_notes": "Located at Canal Walk, so prayer facilities and halal food are easily accessible. [4, 8]"
+        },
+        {
+          "id": "cpt048",
+          "name": "Final Souvenir Shopping & Lunch",
+          "category": "Leisure/Logistics",
+          "description": "After karting, do some last-minute souvenir shopping at Canal Walk or head back to the V&A Waterfront's Watershed market for locally made crafts. Enjoy a final relaxed lunch at a favourite spot or try something new.",
+          "address": "V&A Waterfront, Cape Town",
+          "location_string_for_grab": "Watershed, V&A Waterfront",
+          "coordinates": [
+            18.4178,
+            -33.9069
+          ],
+          "price_zar": 300,
+          "time_available": "Afternoon",
+          "image_url": "https://images.pexels.com/photos/954254/pexels-photo-954254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.6,
+          "transport_options": "Uber/Bolt.",
+          "halal_notes": "Both malls have excellent halal food options and prayer facilities. [37]"
+        },
+        {
+          "id": "cpt049",
+          "name": "Travel to Airport for Departure",
+          "category": "Departure/Logistics",
+          "description": "Head back to your hotel to collect your luggage and then make your way to Cape Town International Airport (CPT) for your flight home, filled with amazing memories of the Mother City.",
+          "address": "Your Hotel to Cape Town International Airport (CPT)",
+          "location_string_for_grab": "Cape Town International Airport",
+          "coordinates": [
+            18.601,
+            -33.965
+          ],
+          "price_zar": 300,
+          "time_available": "Allow 3 hours before flight departure",
+          "image_url": "https://images.pexels.com/photos/1107925/pexels-photo-1107925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": null,
+          "transport_options": "Uber, Bolt, Airport Shuttle.",
+          "halal_notes": "Prayer facilities available at the airport."
+        }
+      ]
+    },
+    {
+      "routeName": "Relaxed Farewell & Quirky Finds",
+      "activities": [
+        {
+          "id": "cpt050",
+          "name": "Leisurely Breakfast & Revisit a Favourite Spot",
+          "category": "Chill/Leisure",
+          "description": "Enjoy a slow final morning. Have a long breakfast at a beautiful cafe. Afterwards, choose a favourite spot to revisit for one last look – perhaps a final walk along the Sea Point promenade or a last visit to the colourful Bo-Kaap.",
+          "address": "Cape Town City Centre",
+          "location_string_for_grab": "Truth Coffee Roasting",
+          "coordinates": [
+            18.4241,
+            -33.9249
+          ],
+          "price_zar": 200,
+          "time_available": "Morning",
+          "image_url": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.5,
+          "transport_options": "Walk or Uber.",
+          "halal_notes": null
+        },
+        {
+          "id": "cpt051",
+          "name": "Visit a Quirky Bookstore or Comic Shop",
+          "category": "Interesting/Nerdy",
+          "description": "Spend an hour browsing a unique local store. The Book Lounge in the CBD is a fantastic independent bookstore, or find a comic book store like Readers Den in Claremont for some nerdy fun before you leave.",
+          "address": "71 Roeland Street, Gardens, Cape Town",
+          "location_string_for_grab": "The Book Lounge, Cape Town",
+          "coordinates": [
+            18.423,
+            -33.929
+          ],
+          "price_zar": 0,
+          "time_available": "10:00 - 17:00",
+          "image_url": "https://images.pexels.com/photos/1319854/pexels-photo-1319854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.8,
+          "transport_options": "Uber/Bolt.",
+          "halal_notes": null
+        },
+        {
+          "id": "cpt068",
+          "name": "Final Lunch at Eastern Food Bazaar",
+          "category": "Food/Culture",
+          "description": "For a final, memorable, and delicious meal, head to the Eastern Food Bazaar. It's a bustling, canteen-style hall with an incredible array of authentic, flavourful, and budget-friendly food. A perfect encapsulation of Cape Town's diverse culture.",
+          "address": "96 Longmarket St, Cape Town City Centre",
+          "location_string_for_grab": "Eastern Food Bazaar",
+          "coordinates": [
+            18.421,
+            -33.923
+          ],
+          "price_zar": 150,
+          "time_available": "10:00 - 22:00",
+          "image_url": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": 4.3,
+          "transport_options": "Located in the CBD.",
+          "halal_notes": "The entire bazaar is fully halal-certified. [3]"
+        },
+        {
+          "id": "cpt052",
+          "name": "Final Preparations & Departure",
+          "category": "Departure/Logistics",
+          "description": "After lunch, head to the hotel to pick up your luggage and travel to the airport for your departure, with a full stomach and happy memories.",
+          "address": "Your Hotel to Cape Town International Airport (CPT)",
+          "location_string_for_grab": "Cape Town International Airport",
+          "coordinates": [
+            18.601,
+            -33.965
+          ],
+          "price_zar": 300,
+          "time_available": "Afternoon",
+          "image_url": "https://images.pexels.com/photos/1107925/pexels-photo-1107925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "suitable_for_couple": true,
+          "review_rating": null,
+          "transport_options": "Uber, Bolt, Airport Shuttle.",
+          "halal_notes": "Prayer facilities available at the airport."
+        }
+      ]
+    }
+  ]
+}
